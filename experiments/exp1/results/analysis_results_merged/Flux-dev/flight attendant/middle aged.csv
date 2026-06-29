@@ -1,0 +1,101 @@
+image,gender,age,race,gender_fair,gender_deepface,gender_insightface,equal_gender,gender_scores_fair,gender_scores_deep,age_fair,age_deepface,age_insightface,age_bin_fair,age_bin_insightface,equal_age,age_scores_fair,age_diff,race_fair,race4_deepface,equal_race,face_fair,bbox
+flight attendant_middle aged_0.png,Female,Middle,White,Female,Female,Female,True,[0.0010754 0.9989246],"[4.4801609999999995e-05, 0.99995514]",30-39,31,39,Middle,Middle,True,"[4.9288541e-08 9.4722128e-07 8.1807066e-04 2.2074977e-01 6.1172044e-01
+ 1.5533753e-01 1.1123802e-02 2.4553231e-04 3.9533666e-06]",4,White,White,True,0,[358 203 670 517]
+flight attendant_middle aged_1.png,Female,Young,White,Female,Female,Female,True,[1.6117841e-05 9.9998391e-01],"[8.656715e-06, 0.9999912999999999]",20-29,32,34,Young,Middle,False,"[1.0271719e-08 4.4635485e-06 5.3098369e-03 5.3632087e-01 4.4506380e-01
+ 1.3136927e-02 1.6258762e-04 1.4651333e-06 2.3716547e-08]",7,White,White,True,0,[326 267 640 581]
+flight attendant_middle aged_10.png,Female,Middle,White,Female,Female,Female,True,[8.690377e-05 9.999131e-01],"[0.009669241, 0.9903308]",30-39,43,41,Middle,Middle,True,"[1.6949627e-08 3.8361046e-07 3.1661411e-04 1.0703359e-01 6.9200903e-01
+ 1.8755141e-01 1.2908774e-02 1.7937551e-04 7.8713038e-07]",8,White,White,True,0,[326 331 640 643]
+flight attendant_middle aged_11.png,Female,Middle,White,Female,Female,Female,True,[1.5613284e-04 9.9984390e-01],"[5.315237000000001e-05, 0.9999468]",30-39,32,46,Middle,Middle,True,"[4.2786542e-08 2.2703921e-06 2.4239176e-03 2.2345795e-01 6.7404979e-01
+ 9.7149864e-02 2.8655438e-03 5.0246974e-05 3.6038873e-07]",3,White,White,True,0,[358 235 670 549]
+flight attendant_middle aged_12.png,Female,Middle,White,Female,Female,Female,True,[3.2910757e-04 9.9967086e-01],"[4.6445737e-07, 0.99999954]",30-39,34,38,Middle,Middle,True,"[6.1933868e-08 5.5552084e-07 1.6828653e-04 3.4849919e-02 5.4091060e-01
+ 3.6379313e-01 5.9276771e-02 9.9849433e-04 2.2566567e-06]",1,White,White,True,0,[363 216 624 477]
+flight attendant_middle aged_13.png,Female,Young,White,Female,Female,Female,True,[3.20050e-05 9.99968e-01],"[0.0009458830999999999, 0.9990541000000001]",20-29,36,33,Young,Middle,False,"[1.1496094e-08 6.4968544e-06 9.6715186e-03 5.6946689e-01 4.0519628e-01
+ 1.5415456e-02 2.4014064e-04 3.1369791e-06 5.1617917e-08]",11,White,White,True,0,[326 203 640 517]
+flight attendant_middle aged_14.png,Female,Middle,White,Female,Female,Female,True,[1.0473429e-05 9.9998951e-01],"[0.0007636343, 0.9992364]",30-39,37,38,Middle,Middle,True,"[8.3288638e-09 3.2827504e-07 4.7783094e-04 1.8617757e-01 6.6834992e-01
+ 1.3988940e-01 5.0242851e-03 8.0119578e-05 5.6491143e-07]",2,White,White,True,0,[358 267 670 581]
+flight attendant_middle aged_15.png,Female,Middle,White,Female,Female,Female,True,[9.9884346e-05 9.9990010e-01],"[1.5290892e-06, 0.9999984999999999]",30-39,34,38,Middle,Middle,True,"[6.8375556e-07 2.0847183e-05 2.4030812e-03 1.8860450e-01 6.6224504e-01
+ 1.3741872e-01 9.1088321e-03 1.9666326e-04 1.6319077e-06]",1,White,White,True,0,[302 240 677 615]
+flight attendant_middle aged_16.png,Female,Middle,White,Female,Female,Female,True,[1.4995853e-05 9.9998504e-01],"[0.00010493409, 0.9998950999999999]",30-39,32,34,Middle,Middle,True,"[9.7517887e-09 1.3268177e-06 3.9237887e-03 3.2795742e-01 6.3508755e-01
+ 3.2210004e-02 8.0891501e-04 1.0958758e-05 2.4340292e-08]",3,White,White,True,0,[363 295 624 556]
+flight attendant_middle aged_17.png,Female,Middle,White,Female,Female,Female,True,[4.971684e-05 9.999503e-01],"[3.9612893e-05, 0.9999604]",30-39,33,35,Middle,Middle,True,"[9.5211625e-09 7.0845414e-07 1.4876145e-03 2.9820070e-01 6.5270817e-01
+ 4.6837911e-02 7.5732742e-04 7.4385653e-06 4.9721898e-08]",2,White,White,True,0,[302 316 677 692]
+flight attendant_middle aged_18.png,Female,Middle,White,Female,Female,Female,True,[5.448414e-05 9.999455e-01],"[0.00037378920000000004, 0.9996261599999999]",30-39,42,37,Middle,Middle,True,"[2.8197341e-08 3.5326891e-06 2.5432450e-03 3.2987449e-01 5.9865737e-01
+ 6.7449890e-02 1.4511218e-03 1.9978206e-05 4.0969394e-07]",7,White,White,True,0,[326 235 640 549]
+flight attendant_middle aged_19.png,Female,Young,White,Female,Female,Female,True,[1.4628468e-04 9.9985373e-01],"[5.5451053000000007e-05, 0.9999445]",20-29,34,38,Young,Middle,False,"[1.87553493e-08 1.17866675e-05 2.98217088e-02 8.00580621e-01
+ 1.67193100e-01 2.38105864e-03 1.14234044e-05 1.90757277e-07
+ 2.49948751e-09]",9,White,Asian,False,0,[326 235 640 549]
+flight attendant_middle aged_2.png,Female,Young,White,Female,Female,Female,True,[1.5562765e-04 9.9984437e-01],"[8.779855e-05, 0.9999121]",20-29,33,44,Young,Middle,False,"[1.3164348e-08 2.5421245e-06 3.8603686e-03 5.0683057e-01 4.7217366e-01
+ 1.6909417e-02 2.2135099e-04 2.1319636e-06 2.4977659e-08]",8,White,White,True,0,[326 299 640 611]
+flight attendant_middle aged_20.png,Female,Young,White,Female,Female,Female,True,[2.1461386e-05 9.9997854e-01],"[0.0010412158000000001, 0.9989588]",20-29,31,35,Young,Middle,False,"[2.8942235e-09 1.5352867e-06 1.1379935e-02 6.0070342e-01 3.7901771e-01
+ 8.8394582e-03 5.7162761e-05 7.1034884e-07 4.6261026e-09]",6,White,White,True,0,[294 267 608 581]
+flight attendant_middle aged_21.png,Female,Middle,White,Female,Female,Female,True,[7.4456228e-05 9.9992555e-01],"[0.00013175297, 0.99986824]",30-39,36,37,Middle,Middle,True,"[2.4309756e-08 3.5024700e-06 6.4056157e-03 4.6932846e-01 4.9181798e-01
+ 3.1749610e-02 6.8531040e-04 9.3666304e-06 1.0416090e-07]",1,White,White,True,0,[326 235 640 549]
+flight attendant_middle aged_22.png,Female,Young,White,Female,Female,Female,True,[0.0011433 0.9988567],"[6.130834e-05, 0.9999387]",20-29,35,34,Young,Middle,False,"[1.1493757e-07 2.0400683e-05 1.2565181e-02 5.3066355e-01 4.3545377e-01
+ 2.0913832e-02 3.7706946e-04 5.9676449e-06 7.7619418e-08]",10,White,White,True,0,[326 235 640 549]
+flight attendant_middle aged_23.png,Female,Middle,White,Female,Female,Female,True,[4.6951434e-04 9.9953049e-01],"[6.209737e-05, 0.9999379]",30-39,42,47,Middle,Middle,True,"[1.0468319e-07 2.5914837e-06 9.4359112e-04 1.0528614e-01 5.4118109e-01
+ 3.0998296e-01 4.1422360e-02 1.1666371e-03 1.4513199e-05]",7,White,White,True,0,[326 299 640 611]
+flight attendant_middle aged_24.png,Female,Young,White,Female,Female,Female,True,[2.7905806e-04 9.9972093e-01],"[0.00056379084, 0.9994362]",20-29,39,29,Young,Young,False,"[5.39027356e-09 3.34166475e-06 1.53612755e-02 6.23149335e-01
+ 3.55058074e-01 6.38862792e-03 3.89271263e-05 4.39211448e-07
+ 3.72239906e-09]",14,White,White,True,0,[385 250 602 468]
+flight attendant_middle aged_25.png,Female,Young,White,Female,Female,Female,True,[1.697743e-05 9.999830e-01],"[0.00048155878, 0.9995184]",20-29,31,33,Young,Middle,False,"[2.2504867e-09 2.2408387e-06 3.0828176e-02 7.7976364e-01 1.8778375e-01
+ 1.6182829e-03 3.8766184e-06 3.7381195e-08 3.8642059e-10]",6,White,White,True,0,[358 235 670 549]
+flight attendant_middle aged_26.png,Female,Middle,White,Female,Female,Female,True,[3.450126e-04 9.996550e-01],"[1.7305119e-05, 0.9999827]",30-39,32,39,Middle,Middle,True,"[1.7466630e-07 8.9385276e-06 3.9914828e-03 2.4859516e-01 6.3148260e-01
+ 1.0914656e-01 6.5998896e-03 1.7361002e-04 1.5605535e-06]",3,White,White,True,0,[363 295 624 556]
+flight attendant_middle aged_27.png,Female,Middle,White,Female,Female,Female,True,[2.5771026e-06 9.9999744e-01],"[4.0487630000000006e-06, 0.99999596]",30-39,35,41,Middle,Middle,True,"[6.0556582e-09 1.1089284e-06 2.0758759e-03 2.7549756e-01 6.9281214e-01
+ 2.9297626e-02 3.1353481e-04 2.0962223e-06 9.0863024e-09]",0,White,White,True,0,[339 202 715 578]
+flight attendant_middle aged_28.png,Female,Middle,White,Female,Female,Female,True,[5.5708317e-04 9.9944293e-01],"[5.762701600000001e-06, 0.9999943]",30-39,33,46,Middle,Middle,True,"[3.8412317e-08 4.8575134e-06 4.9357023e-03 4.2432958e-01 5.5011779e-01
+ 2.0222805e-02 3.8422033e-04 4.9740156e-06 3.9064957e-08]",2,White,White,True,0,[302 240 677 615]
+flight attendant_middle aged_29.png,Female,Young,Asian,Female,Female,Female,True,[1.985925e-06 9.999980e-01],"[0.023765277999999997, 0.9762347]",20-29,32,28,Young,Young,False,"[3.1907717e-08 3.0146423e-04 1.7163724e-01 8.0784762e-01 2.0145804e-02
+ 6.7707319e-05 9.9790149e-08 3.2454743e-09 6.2518962e-11]",7,Asian,Asian,True,0,[358 267 670 581]
+flight attendant_middle aged_3.png,Female,Middle,White,Female,Female,Female,True,[7.8389968e-04 9.9921614e-01],"[0.0007244836, 0.9992755]",30-39,40,41,Middle,Middle,True,"[2.8112201e-08 1.6111966e-06 1.4824134e-03 2.7806127e-01 6.2343079e-01
+ 9.2890449e-02 4.0743612e-03 5.8591952e-05 4.4846996e-07]",5,White,White,True,0,[358 299 670 611]
+flight attendant_middle aged_31.png,Female,Middle,White,Female,Female,Female,True,[4.0658168e-05 9.9995935e-01],"[0.021083820000000003, 0.9789162399999999]",30-39,40,35,Middle,Middle,True,"[2.8166681e-08 8.4238877e-07 7.2594965e-04 1.0247065e-01 6.5013814e-01
+ 2.3532739e-01 1.1179090e-02 1.5710677e-04 8.2009058e-07]",5,White,White,True,0,[358 267 670 581]
+flight attendant_middle aged_33.png,Female,Young,White,Female,Female,Female,True,[2.8097102e-05 9.9997187e-01],"[0.00033373, 0.9996664]",20-29,34,42,Young,Middle,False,"[5.4362990e-09 1.0762765e-05 3.6259145e-02 7.2725648e-01 2.3410207e-01
+ 2.3615612e-03 9.8678993e-06 1.1591471e-07 1.1604311e-09]",9,White,White,True,0,[358 235 670 549]
+flight attendant_middle aged_34.png,Female,Young,White,Female,Female,Female,True,[4.4592598e-05 9.9995542e-01],"[1.5538710999999998e-06, 0.9999984999999999]",20-29,31,35,Young,Middle,False,"[1.7951302e-09 5.9534744e-07 4.2999187e-03 5.7226586e-01 4.1883081e-01
+ 4.5866575e-03 1.6026968e-05 1.3743163e-07 9.2521435e-10]",6,White,White,True,0,[363 268 624 529]
+flight attendant_middle aged_35.png,Female,Young,White,Female,Female,Female,True,[4.476344e-06 9.999955e-01],"[3.0145212e-05, 0.9999699]",20-29,34,29,Young,Young,False,"[6.4753256e-09 8.0163863e-06 2.5546689e-02 7.1804619e-01 2.5231573e-01
+ 4.0637143e-03 1.9460114e-05 1.9616373e-07 2.3177549e-09]",9,White,White,True,0,[302 240 677 615]
+flight attendant_middle aged_36.png,Female,Middle,White,Female,Female,Female,True,[2.9445020e-05 9.9997056e-01],"[0.00058132935, 0.9994187]",30-39,34,52,Middle,Middle,True,"[1.1996291e-07 2.4707138e-06 1.3710286e-03 1.6770422e-01 6.1628270e-01
+ 2.0231235e-01 1.2081839e-02 2.4363800e-04 1.6696478e-06]",1,White,White,True,0,[326 299 640 611]
+flight attendant_middle aged_37.png,Female,Young,White,Female,Female,Female,True,[5.057201e-05 9.999494e-01],"[9.732578e-06, 0.9999902]",20-29,34,35,Young,Middle,False,"[8.56991189e-09 9.45537431e-06 1.54238995e-02 6.38996422e-01
+ 3.40784132e-01 4.77109151e-03 1.49149819e-05 1.12489253e-07
+ 9.56620450e-10]",9,White,White,True,0,[407 272 624 490]
+flight attendant_middle aged_38.png,Female,Young,White,Female,Female,Female,True,[6.0912560e-05 9.9993914e-01],"[0.00039773695, 0.9996022999999999]",20-29,31,42,Young,Middle,False,"[1.9052434e-08 7.2835164e-06 8.0725029e-03 5.3625071e-01 4.4435892e-01
+ 1.1181148e-02 1.2727518e-04 2.1762728e-06 2.4191230e-08]",6,White,White,True,0,[326 299 640 611]
+flight attendant_middle aged_39.png,Female,Young,White,Female,Female,Female,True,[1.8706229e-05 9.9998128e-01],"[4.279621e-05, 0.9999572000000001]",20-29,30,28,Young,Young,False,"[9.10636722e-09 4.65927660e-05 6.21665418e-02 8.35503697e-01
+ 1.01841204e-01 4.40752658e-04 1.19737081e-06 1.26627535e-08
+ 2.35373221e-10]",5,White,White,True,0,[390 295 651 556]
+flight attendant_middle aged_4.png,Female,Middle,White,Female,Female,Female,True,[1.4583660e-05 9.9998546e-01],"[5.1954146e-05, 0.99994804]",30-39,42,33,Middle,Middle,True,"[1.2849036e-09 2.1036283e-07 6.8060536e-04 2.3637182e-01 7.2652239e-01
+ 3.6114857e-02 3.0828360e-04 1.8690173e-06 1.1907562e-08]",7,White,White,True,0,[358 299 670 611]
+flight attendant_middle aged_40.png,Female,Young,Asian,Female,Female,Female,True,[3.6825953e-05 9.9996316e-01],"[0.00010317725, 0.9998968]",20-29,31,31,Young,Middle,False,"[1.5605833e-08 7.2222228e-06 1.3412151e-02 6.3616914e-01 3.4313115e-01
+ 7.2339033e-03 4.5842575e-05 6.6180291e-07 3.9883830e-09]",6,Asian,Asian,True,0,[444 473 595 624]
+flight attendant_middle aged_41.png,Female,Middle,White,Female,Female,Female,True,[4.1554140e-05 9.9995846e-01],"[0.029685245, 0.9703148]",30-39,40,40,Middle,Middle,True,"[5.6088687e-08 6.9181556e-07 5.2845891e-04 1.0589552e-01 6.9342238e-01
+ 1.8495941e-01 1.4984327e-02 2.0852363e-04 6.2108700e-07]",5,White,White,True,0,[326 267 640 581]
+flight attendant_middle aged_42.png,Female,Middle,White,Female,Female,Female,True,[7.3496027e-05 9.9992645e-01],"[0.0002698931, 0.9997301000000001]",30-39,32,33,Middle,Middle,True,"[5.8793653e-08 6.4016131e-06 5.2361591e-03 3.0452633e-01 6.3366437e-01
+ 5.5178154e-02 1.3651972e-03 2.3052393e-05 2.5916324e-07]",3,White,White,True,0,[358 203 670 517]
+flight attendant_middle aged_43.png,Female,Young,White,Female,Female,Female,True,[0.00186891 0.99813104],"[3.5840138e-05, 0.99996414]",20-29,33,40,Young,Middle,False,"[1.4202607e-07 3.3196269e-05 2.4071289e-02 5.3785813e-01 4.2028904e-01
+ 1.7404895e-02 3.3720248e-04 6.0064544e-06 7.0320141e-08]",8,White,White,True,0,[326 267 640 581]
+flight attendant_middle aged_44.png,Female,Middle,White,Female,Female,Female,True,[2.4018927e-05 9.9997598e-01],"[2.8250219999999996e-09, 1.0]",30-39,37,32,Middle,Middle,True,"[6.9305153e-09 1.2728103e-06 3.1244622e-03 4.4101512e-01 5.3791648e-01
+ 1.7820587e-02 1.2114915e-04 8.9643316e-07 3.6233756e-09]",2,White,White,True,0,[326 235 640 549]
+flight attendant_middle aged_45.png,Female,Middle,White,Female,Female,Female,True,[4.6991892e-05 9.9995297e-01],"[2.4036204e-05, 0.9999759]",30-39,33,35,Middle,Middle,True,"[1.1121542e-07 4.5024099e-06 2.5499773e-03 2.5713855e-01 6.9551784e-01
+ 4.3834761e-02 9.4106037e-04 1.3160393e-05 4.9123798e-08]",2,White,White,True,0,[326 235 640 549]
+flight attendant_middle aged_46.png,Female,Middle,White,Female,Female,Female,True,[1.5485719e-05 9.9998456e-01],"[2.1087169e-05, 0.9999789]",30-39,39,37,Middle,Middle,True,"[4.2070447e-08 1.8149924e-06 1.0957074e-03 1.5138593e-01 6.9001311e-01
+ 1.4763872e-01 9.6951965e-03 1.6821784e-04 1.2389431e-06]",4,White,White,True,0,[358 172 670 485]
+flight attendant_middle aged_47.png,Female,Young,White,Female,Female,Female,True,[4.5498759e-06 9.9999547e-01],"[6.5016927e-06, 0.9999934399999999]",20-29,32,39,Young,Middle,False,"[2.1556574e-09 4.1801659e-06 2.6761880e-02 8.4117335e-01 1.3135521e-01
+ 7.0290064e-04 2.4115914e-06 2.6319372e-08 1.9425520e-10]",7,White,White,True,0,[363 241 624 503]
+flight attendant_middle aged_48.png,Female,Middle,White,Female,Female,Female,True,[4.9982936e-04 9.9950016e-01],"[1.5292062e-05, 0.99998474]",30-39,33,41,Middle,Middle,True,"[3.6427471e-07 4.1789586e-05 9.7773243e-03 4.4801980e-01 5.0693399e-01
+ 3.3863738e-02 1.3410000e-03 2.1554857e-05 3.8492365e-07]",2,White,White,True,0,[339 316 715 692]
+flight attendant_middle aged_49.png,Female,Young,White,Female,Female,Female,True,[2.2798802e-05 9.9997723e-01],"[4.472661e-05, 0.9999553]",20-29,36,39,Young,Middle,False,"[2.2699467e-09 2.9229202e-06 2.2927022e-02 7.1393764e-01 2.6069975e-01
+ 2.4246471e-03 7.9549764e-06 9.3330243e-08 6.4512534e-10]",11,White,White,True,0,[302 279 677 654]
+flight attendant_middle aged_5.png,Female,Middle,White,Female,Female,Female,True,[2.4442349e-04 9.9975562e-01],"[0.00032247894, 0.9996775]",30-39,40,43,Middle,Middle,True,"[3.1532977e-08 2.3773484e-06 3.1604797e-03 2.7113771e-01 5.8967161e-01
+ 1.3042672e-01 5.4635904e-03 1.3517418e-04 2.2975871e-06]",5,White,White,True,0,[337 241 599 503]
+flight attendant_middle aged_6.png,Female,Middle,White,Female,Female,Female,True,[1.2457931e-06 9.9999875e-01],"[1.050074e-07, 0.9999998499999999]",30-39,32,33,Middle,Middle,True,"[2.8479262e-08 2.9355256e-06 2.3131098e-03 2.9622346e-01 6.0841179e-01
+ 9.1256388e-02 1.7718601e-03 2.0153293e-05 2.0927091e-07]",3,White,White,True,0,[363 241 624 503]
+flight attendant_middle aged_7.png,Female,Middle,White,Female,Female,Female,True,[7.639536e-06 9.999924e-01],"[0.00022572411, 0.99977425]",30-39,42,42,Middle,Middle,True,"[1.7193274e-08 5.8954390e-07 4.7192376e-04 7.9289831e-02 5.2069032e-01
+ 3.5301653e-01 4.5710139e-02 8.1620034e-04 4.4293961e-06]",7,White,White,True,0,[363 268 624 529]
+flight attendant_middle aged_8.png,Female,Middle,White,Female,Female,Female,True,[1.0188858e-04 9.9989814e-01],"[0.00034507959999999997, 0.9996549]",30-39,34,33,Middle,Middle,True,"[4.0293617e-08 2.7741717e-06 2.8166745e-03 3.3550414e-01 5.9798300e-01
+ 6.1465070e-02 2.1947518e-03 3.3452816e-05 2.1764249e-07]",1,White,White,True,0,[326 299 640 611]
+flight attendant_middle aged_9.png,Female,Middle,White,Female,Female,Female,True,[2.7087958e-06 9.9999726e-01],"[0.0003773982, 0.9996226]",30-39,34,37,Middle,Middle,True,"[1.3866955e-08 2.2482932e-06 3.6705586e-03 4.2292622e-01 5.4386091e-01
+ 2.9029764e-02 5.0464855e-04 5.6616695e-06 2.6422715e-08]",1,White,White,True,0,[419 236 600 417]

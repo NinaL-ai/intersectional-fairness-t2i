@@ -1,0 +1,28 @@
+# Core ML/DL frameworks
+torch
+torchvision
+accelerate
+diffusers
+transformers
+
+# Data manipulation and scientific computing
+numpy
+pandas
+scipy
+datasets
+
+# Image processing and Computer Vision
+pillow
+opencv-python
+deepface
+insightface
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+
+# Optional (for GPU optimization)
+# xformers

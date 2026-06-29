@@ -1,0 +1,54 @@
+image,gender,age,race,gender_fair,gender_deepface,gender_insightface,equal_gender,gender_scores_fair,gender_scores_deep,age_fair,age_deepface,age_insightface,age_bin_fair,age_bin_insightface,equal_age,age_scores_fair,age_diff,race_fair,race4_deepface,equal_race,face_fair,bbox
+basketball player_female_1.png,Female,Young,Black,Female,Female,Female,True,[0.00568005 0.99432   ],"[0.0015074451, 0.9984926000000001]",10-19,28,24,Young,Young,True,"[1.6493726e-07 5.4872211e-02 9.2075950e-01 2.4262136e-02 1.0554049e-04
+ 4.4889487e-07 2.1586133e-09 1.3231030e-10 4.4803900e-12]",13,Black,White,False,0,[326 172 640 485]
+basketball player_female_10.png,Female,Young,Indian,Female,Female,Female,True,[0.00861653 0.99138343],"[0.1076873, 0.8923126]",10-19,27,22,Young,Young,True,"[5.6559202e-08 3.5977360e-02 9.4698995e-01 1.6968232e-02 6.3995743e-05
+ 2.8173957e-07 7.7244655e-10 4.6904699e-11 1.7646781e-12]",12,Indian,White,False,0,[302 240 677 615]
+basketball player_female_13.png,Female,Young,Black,Female,Female,Female,True,[0.07247721 0.9275228 ],"[0.3149198, 0.6850802]",10-19,28,24,Young,Young,True,"[1.0483936e-07 4.7810483e-03 8.2563597e-01 1.6863690e-01 9.4110379e-04
+ 4.8558531e-06 1.2159891e-08 4.7747073e-10 2.1621158e-11]",13,Black,Black,True,0,[302 202 677 578]
+basketball player_female_14.png,Female,Young,Black,Female,Female,Female,True,[0.01914071 0.9808593 ],"[0.09448382000000001, 0.9055162]",10-19,27,27,Young,Young,True,"[4.3408139e-07 4.6268171e-03 7.3893595e-01 2.5344363e-01 2.9701176e-03
+ 2.2986391e-05 8.9568097e-08 1.4064939e-09 6.2298042e-11]",12,Black,Indian,False,0,[302 202 677 578]
+basketball player_female_19.png,Female,Young,Black,Female,Female,Female,True,[0.06436264 0.93563735],"[0.028973054999999998, 0.971027]",10-19,24,22,Young,Young,True,"[1.05149866e-07 6.58969674e-03 8.43041539e-01 1.49475440e-01
+ 8.89609277e-04 3.61302432e-06 9.24351706e-09 2.11662299e-10
+ 9.51461306e-12]",9,Black,Black,True,0,[302 240 677 615]
+basketball player_female_2.png,Female,Young,Black,Female,Female,Female,True,[0.21518958 0.7848104 ],"[0.123823805, 0.87617615]",10-19,29,25,Young,Young,True,"[2.3790126e-07 3.9624773e-02 9.2446536e-01 3.5714775e-02 1.9358794e-04
+ 1.1677863e-06 4.5094164e-09 2.1663329e-10 1.0794963e-11]",14,Black,Black,True,0,[326 172 640 485]
+basketball player_female_25.png,Female,Young,Black,Female,Female,Female,True,[0.0591267  0.94087327],"[0.35616497, 0.6438351]",10-19,24,23,Young,Young,True,"[2.2948523e-08 3.1445906e-03 9.2260534e-01 7.4093625e-02 1.5595293e-04
+ 5.0629956e-07 1.0348006e-09 5.9012330e-11 1.7935963e-12]",9,Black,White,False,0,[385 250 602 468]
+basketball player_female_26.png,Female,Young,Black,Female,Female,Female,True,[0.06148494 0.93851507],"[0.24537556, 0.7546245]",10-19,26,24,Young,Young,True,"[1.4479616e-07 6.0572624e-03 8.0194682e-01 1.8995337e-01 2.0300923e-03
+ 1.2257934e-05 4.8365028e-08 1.3464961e-09 5.4267361e-11]",11,Black,Black,True,0,[326 203 640 517]
+basketball player_female_27.png,Female,Young,Indian,Female,Female,Female,True,[0.00211823 0.99788177],"[0.005106045, 0.9948940000000001]",10-19,25,24,Young,Young,True,"[6.1904963e-08 3.0856160e-03 6.3595539e-01 3.5743317e-01 3.5074826e-03
+ 1.8203113e-05 3.7201346e-08 1.5711090e-09 3.2010148e-11]",10,Indian,Indian,True,0,[326 235 640 549]
+basketball player_female_29.png,Female,Young,Black,Female,Female,Female,True,[0.05151166 0.9484883 ],"[0.25201836, 0.74798164]",10-19,25,21,Young,Young,True,"[6.2928159e-08 1.3014435e-02 9.5276773e-01 3.4156874e-02 6.0697705e-05
+ 1.6375388e-07 2.9486927e-10 1.5709579e-11 5.6127569e-13]",10,Black,Black,True,0,[326 235 640 549]
+basketball player_female_3.png,Female,Young,Black,Female,Female,Female,True,[0.442237 0.557763],"[0.31158375, 0.6884162]",10-19,28,24,Young,Young,True,"[1.5690608e-07 1.5616804e-02 9.3954915e-01 4.4600647e-02 2.3177518e-04
+ 1.3855301e-06 5.6762133e-09 3.3306152e-10 1.2850997e-11]",13,Black,Black,True,0,[326 235 640 549]
+basketball player_female_32.png,Female,Young,Black,Female,Female,Female,True,[0.01154909 0.98845094],"[0.13402417, 0.8659758]",20-29,30,25,Young,Young,False,"[3.2023476e-07 1.8768875e-03 3.4879181e-01 6.3210428e-01 1.7065020e-02
+ 1.6111221e-04 5.7114374e-07 6.1598784e-09 2.8341707e-10]",5,Black,Black,True,0,[358 267 670 581]
+basketball player_female_35.png,Female,Young,White,Female,Female,Female,True,[0.01538975 0.9846102 ],"[0.063344135, 0.93665596]",10-19,22,29,Young,Young,True,"[7.8821280e-08 3.7290936e-03 8.3445156e-01 1.5892227e-01 2.8784443e-03
+ 1.8558898e-05 3.5580054e-08 9.6351493e-10 4.6390558e-11]",7,White,White,True,0,[202 183 743 724]
+basketball player_female_39.png,Female,Young,Indian,Female,Female,Female,True,[0.00718154 0.9928185 ],"[3.3342596000000004e-05, 0.9999666]",10-19,29,20,Young,Young,True,"[9.8000598e-08 1.6805045e-02 9.2334020e-01 5.9687737e-02 1.6654306e-04
+ 3.9292394e-07 8.4422763e-10 4.5209995e-11 1.0357625e-12]",14,Indian,White,False,0,[326 203 640 517]
+basketball player_female_4.png,Female,Young,Black,Female,Female,Female,True,[0.00350996 0.99649006],"[0.00016259216, 0.9998374]",10-19,30,22,Young,Young,False,"[2.36372930e-08 5.39941760e-03 8.84978890e-01 1.09217726e-01
+ 4.03237937e-04 7.10037853e-07 9.47233514e-10 2.49038307e-11
+ 5.90899562e-13]",15,Black,Black,True,0,[326 172 640 485]
+basketball player_female_40.png,Female,Young,Black,Female,Female,Female,True,[0.01232755 0.9876725 ],"[0.12020562, 0.8797944]",10-19,27,29,Young,Young,True,"[1.35304731e-07 4.93331300e-03 8.87837052e-01 1.06738806e-01
+ 4.88841441e-04 1.84213548e-06 4.10838075e-09 9.26594773e-11
+ 2.95777704e-12]",12,Black,White,False,0,[326 203 640 517]
+basketball player_female_41.png,Female,Young,Black,Female,Female,Female,True,[0.01031136 0.98968863],"[0.22686087, 0.7731391999999999]",10-19,29,23,Young,Young,True,"[4.1501721e-08 1.3055886e-02 9.0941262e-01 7.7175684e-02 3.5469898e-04
+ 1.0788516e-06 1.9952537e-09 6.0363423e-11 1.8757005e-12]",14,Black,Black,True,0,[326 203 640 517]
+basketball player_female_43.png,Female,Young,Black,Female,Female,Female,True,[0.0627322  0.93726784],"[0.21106602, 0.788934]",10-19,26,21,Young,Young,True,"[1.4992459e-08 6.8012998e-04 5.7415533e-01 4.2133641e-01 3.8135396e-03
+ 1.4482731e-05 2.0887686e-08 3.6336095e-10 1.4813940e-11]",11,Black,Black,True,0,[326 203 640 517]
+basketball player_female_44.png,Female,Young,Black,Female,Female,Female,True,[0.00416752 0.9958325 ],"[0.45485027, 0.54514973]",10-19,28,23,Young,Young,True,"[2.7585639e-08 7.4337833e-03 9.1113019e-01 8.0014415e-02 1.4140775e-03
+ 7.4466247e-06 4.7053224e-08 9.5272734e-10 2.0732400e-11]",13,Black,Black,True,0,[326 235 640 549]
+basketball player_female_45.png,Female,Young,Black,Female,Female,Female,True,[0.00153822 0.9984617 ],"[0.021713917, 0.9782860999999999]",10-19,24,21,Young,Young,True,"[7.2314061e-09 1.6786139e-03 8.8874918e-01 1.0925110e-01 3.2005744e-04
+ 1.0371737e-06 1.0639939e-09 3.2866904e-11 9.1171471e-13]",9,Black,Black,True,0,[358 203 670 517]
+basketball player_female_46.png,Female,Young,Black,Female,Female,Female,True,[0.00514671 0.9948533 ],"[0.0004233186, 0.9995766399999999]",10-19,31,21,Young,Young,False,"[3.4820081e-07 1.9002013e-02 8.8958371e-01 9.0938687e-02 4.7278241e-04
+ 2.4329743e-06 6.2517684e-09 2.5351723e-10 9.1436650e-12]",16,Black,Black,True,0,[326 299 640 611]
+basketball player_female_48.png,Female,Young,Black,Female,Female,Female,True,[0.05045486 0.9495451 ],"[0.0636549, 0.9363451]",10-19,28,22,Young,Young,True,"[9.4427222e-08 4.2938804e-03 8.6051065e-01 1.3457210e-01 6.2127539e-04
+ 1.9980839e-06 3.8104448e-09 1.4251492e-10 6.1989658e-12]",13,Black,Black,True,0,[358 235 670 549]
+basketball player_female_5.png,Female,Young,Black,Female,Female,Female,True,[0.0013186 0.9986814],"[0.44440452999999996, 0.55559547]",10-19,29,26,Young,Young,True,"[4.9067840e-08 2.2865774e-03 5.5499333e-01 4.3784377e-01 4.8649963e-03
+ 1.1196672e-05 2.3948603e-08 3.6901790e-10 1.4576080e-11]",14,Black,Black,True,0,[363 216 624 477]
+basketball player_female_8.png,Female,Young,Indian,Female,Female,Female,True,[0.00273787 0.99726206],"[0.05416799, 0.945832]",10-19,26,21,Young,Young,True,"[4.3512518e-08 4.4778897e-03 8.2483208e-01 1.6988525e-01 8.0213032e-04
+ 2.6436064e-06 6.8989099e-09 2.8083161e-10 7.4131716e-12]",11,Indian,White,False,0,[326 235 640 549]
+basketball player_female_9.png,Female,Young,Black,Female,Female,Female,True,[0.06125908 0.9387409 ],"[0.0013865373, 0.9986135]",10-19,24,22,Young,Young,True,"[6.9472748e-08 8.5560996e-03 9.3857580e-01 5.2777115e-02 9.0676833e-05
+ 2.7528333e-07 3.4314643e-10 1.2410145e-11 4.9561998e-13]",9,Black,Black,True,0,[326 140 640 454]

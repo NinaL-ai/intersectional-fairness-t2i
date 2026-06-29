@@ -1,0 +1,213 @@
+image,gender,age,race,gender_fair,gender_deepface,gender_insightface,equal_gender,gender_scores_fair,gender_scores_deep,age_fair,age_deepface,age_insightface,age_bin_fair,age_bin_insightface,equal_age,age_scores_fair,age_diff,race_fair,race4_deepface,equal_race,face_fair,bbox
+software engineer_indian_prompt_0_0.png,Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 1.7495411e-08],"[0.9999741, 2.585589e-05]",30-39,33,32,Middle,Middle,True,"[2.0922899e-08 9.4175948e-07 5.5293826e-04 4.0058503e-01 5.7999605e-01
+ 1.8801555e-02 6.2701132e-05 7.8883130e-07 7.8160873e-09]",2,Indian,Indian,True,0,[358 299 670 611]
+software engineer_indian_prompt_0_1.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 2.4444014e-07],"[0.99998665, 1.3301986e-05]",30-39,32,39,Middle,Middle,True,"[2.6400912e-07 2.7368351e-06 1.3371161e-04 1.0258743e-01 7.3547179e-01
+ 1.6005512e-01 1.7369204e-03 1.1851301e-05 1.4479136e-07]",3,Indian,White,False,0,[294 261 744 711]
+software engineer_indian_prompt_0_10.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999982e-01 1.8358162e-07],"[0.9999955, 4.5198904e-06]",30-39,31,40,Middle,Middle,True,"[5.84446161e-06 1.89525308e-04 4.77333087e-03 2.49065727e-01
+ 6.68961048e-01 7.57657960e-02 1.22842519e-03 1.02623735e-05
+ 8.27940809e-08]",4,Indian,Indian,True,0,[326 267 640 581]
+software engineer_indian_prompt_0_11.png,Male,Middle,Indian,Male,Male,Male,True,[1.000000e+00 2.553024e-08],"[0.9999690999999999, 3.0887034000000004e-05]",30-39,33,33,Middle,Middle,True,"[2.2816303e-07 1.0264963e-05 5.0870545e-04 2.7512097e-01 6.7853194e-01
+ 4.5644823e-02 1.8226594e-04 8.0583754e-07 5.4395999e-09]",2,Indian,Indian,True,0,[358 235 670 549]
+software engineer_indian_prompt_0_12.png,Male,Middle,Indian,Male,Male,Male,True,[9.999995e-01 4.958506e-07],"[0.9999561, 4.385549e-05]",30-39,32,38,Middle,Middle,True,"[6.1796192e-07 7.1604700e-06 7.4459153e-04 1.4109236e-01 7.4051589e-01
+ 1.1528617e-01 2.3244149e-03 2.8386417e-05 4.5090411e-07]",3,Indian,Indian,True,0,[363 216 624 477]
+software engineer_indian_prompt_0_13.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 1.9237434e-07],"[0.9999563600000001, 4.3613590000000005e-05]",30-39,32,40,Middle,Middle,True,"[2.26042090e-07 1.90354240e-06 1.52676119e-04 1.14955954e-01
+ 7.63909996e-01 1.19697779e-01 1.27399841e-03 7.35728918e-06
+ 8.49606678e-08]",3,Indian,Indian,True,0,[326 267 640 581]
+software engineer_indian_prompt_0_14.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999726e-01 2.7122987e-06],"[0.99994385, 5.6105023e-05]",30-39,39,41,Middle,Middle,True,"[1.1022370e-06 1.6558564e-05 4.1449725e-04 1.1412080e-01 7.2172719e-01
+ 1.6181450e-01 1.8913411e-03 1.3903232e-05 1.8621139e-07]",4,Indian,Indian,True,0,[302 240 677 615]
+software engineer_indian_prompt_0_15.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 1.1567439e-07],"[0.99985504, 0.00014495539]",30-39,33,36,Middle,Middle,True,"[2.5215863e-07 6.2854069e-06 9.1329380e-04 2.7884567e-01 6.7850268e-01
+ 4.1472640e-02 2.5755330e-04 1.5740071e-06 1.2252150e-08]",2,Indian,Indian,True,0,[326 235 640 549]
+software engineer_indian_prompt_0_16.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 7.5119274e-08],"[0.9999328, 6.723366e-05]",30-39,28,40,Middle,Middle,False,"[1.1352800e-07 1.2486493e-06 1.2313687e-04 1.6416797e-01 7.6733655e-01
+ 6.7774281e-02 5.9228862e-04 4.3060772e-06 5.0973966e-08]",7,Indian,White,False,0,[302 240 677 615]
+software engineer_indian_prompt_0_17.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 5.0241464e-08],"[0.9999431599999999, 5.688826999999999e-05]",30-39,32,33,Middle,Middle,True,"[6.4172916e-08 1.0042048e-06 3.3912100e-04 2.5321445e-01 6.8577921e-01
+ 6.0014557e-02 6.4390042e-04 7.5927655e-06 1.0285577e-07]",3,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_0_18.png,Male,Middle,Indian,Male,Male,Male,True,[9.999999e-01 6.056788e-08],"[0.9999818, 1.8225699e-05]",30-39,32,51,Middle,Middle,True,"[7.0511980e-08 2.2310603e-06 4.2453338e-04 1.3095325e-01 6.8005788e-01
+ 1.8599257e-01 2.5532839e-03 1.6114031e-05 1.2148490e-07]",3,Indian,White,False,0,[202 215 654 665]
+software engineer_indian_prompt_0_19.png,Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 2.2606212e-09],"[0.9999205000000001, 7.953985999999999e-05]",30-39,31,46,Middle,Middle,True,"[8.7090065e-08 1.3967458e-06 3.6025807e-04 3.5691762e-01 5.9555572e-01
+ 4.6803568e-02 3.5764190e-04 3.7195350e-06 2.5505095e-08]",4,Indian,White,False,0,[326 299 640 611]
+software engineer_indian_prompt_0_2.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.0626918e-07],"[0.99998795, 1.2057158e-05]",30-39,32,45,Middle,Middle,True,"[5.8777272e-07 5.0015383e-06 1.0601624e-04 3.7024889e-02 6.9584572e-01
+ 2.6212266e-01 4.8777419e-03 1.7267226e-05 1.3697786e-07]",3,Indian,White,False,0,[337 216 599 477]
+software engineer_indian_prompt_0_20.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.3570714e-07],"[0.9999831, 1.6941549e-05]",30-39,32,45,Middle,Middle,True,"[9.3307513e-08 9.1934407e-07 8.5928339e-05 7.8971826e-02 8.1421310e-01
+ 1.0583831e-01 8.8691938e-04 2.8793581e-06 2.0176666e-08]",3,Indian,Indian,True,0,[339 240 715 615]
+software engineer_indian_prompt_0_21.png,Male,Middle,Indian,Male,Male,Male,True,[9.999992e-01 7.820897e-07],"[0.9999834400000001, 1.6560251e-05]",30-39,32,44,Middle,Middle,True,"[8.2512821e-07 5.1581560e-06 2.3336822e-04 8.4021792e-02 7.0173448e-01
+ 2.1028742e-01 3.6784597e-03 3.7928487e-05 5.9287737e-07]",3,Indian,White,False,0,[390 241 651 503]
+software engineer_indian_prompt_0_22.png,Male,Middle,Indian,Male,Male,Male,True,[1.000000e+00 5.415315e-09],"[0.9999758, 2.417058e-05]",30-39,32,32,Middle,Middle,True,"[2.5904244e-08 4.2015495e-07 1.3222006e-04 2.1917103e-01 7.2564828e-01
+ 5.4660298e-02 3.8426486e-04 3.4767272e-06 3.2850096e-08]",3,Indian,White,False,0,[326 235 640 549]
+software engineer_indian_prompt_0_23.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999940e-01 5.9629167e-07],"[0.999983, 1.7067112e-05]",30-39,31,38,Middle,Middle,True,"[1.1525183e-06 5.4516033e-05 4.1104644e-03 2.2602212e-01 6.9800395e-01
+ 7.0993960e-02 8.0555375e-04 8.1437411e-06 1.0952876e-07]",4,Indian,Indian,True,0,[326 235 640 549]
+software engineer_indian_prompt_0_24.png,Male,Middle,Indian,Male,Male,Male,True,[1.000000e+00 3.179848e-08],"[0.9999568, 4.3114004999999994e-05]",30-39,33,41,Middle,Middle,True,"[5.7770075e-07 1.8797020e-05 1.7259693e-03 3.7024501e-01 5.9502506e-01
+ 3.2759577e-02 2.2320753e-04 1.8203967e-06 1.4362272e-08]",2,Indian,White,False,0,[302 279 677 654]
+software engineer_indian_prompt_0_25.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999982e-01 1.8491556e-07],"[0.99995865, 4.1410835e-05]",30-39,33,41,Middle,Middle,True,"[4.0846550e-07 6.5423915e-06 3.7705150e-04 2.1256258e-01 7.2694772e-01
+ 5.9789747e-02 3.1369049e-04 2.2271120e-06 2.3304366e-08]",2,Indian,Indian,True,0,[326 235 640 549]
+software engineer_indian_prompt_0_26.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.3972677e-07],"[0.9999842999999999, 1.5696492e-05]",30-39,31,44,Middle,Middle,True,"[1.1951484e-07 9.9395641e-07 2.0337821e-04 1.5529132e-01 7.6958382e-01
+ 7.4110493e-02 8.0335606e-04 6.4063088e-06 8.7127354e-08]",4,Indian,Indian,True,0,[358 267 670 581]
+software engineer_indian_prompt_0_27.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999851e-01 1.4635451e-06],"[0.9998857999999999, 0.00011423791000000001]",30-39,32,35,Middle,Middle,True,"[2.1045440e-07 4.1697840e-06 4.3919240e-04 1.7995286e-01 7.4319005e-01
+ 7.5422101e-02 9.8323287e-04 8.0780164e-06 1.3992893e-07]",3,Indian,Indian,True,0,[263 316 640 692]
+software engineer_indian_prompt_0_28.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999803e-01 1.9134297e-06],"[0.9999937, 6.359314e-06]",30-39,31,37,Middle,Middle,True,"[5.4989800e-07 4.2153779e-06 3.8907933e-04 1.6662535e-01 7.6453960e-01
+ 6.7684874e-02 7.4511551e-04 1.1009677e-05 2.0998694e-07]",4,Indian,White,False,0,[302 316 677 692]
+software engineer_indian_prompt_0_29.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999636e-01 3.6174420e-06],"[0.9999699, 3.0170062e-05]",30-39,37,36,Middle,Middle,True,"[1.0495096e-05 6.3947489e-05 7.7057071e-04 7.6028921e-02 6.5366244e-01
+ 2.6123154e-01 8.1508365e-03 8.0026388e-05 1.2657243e-06]",2,Indian,Indian,True,0,[339 240 715 615]
+software engineer_indian_prompt_0_3.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 3.2850636e-08],"[0.9999908399999999, 9.207193999999999e-06]",30-39,34,35,Middle,Middle,True,"[8.1405977e-07 3.5237466e-05 1.1408624e-03 2.4193962e-01 7.1722513e-01
+ 3.9472263e-02 1.8517136e-04 8.7030145e-07 5.7196887e-09]",1,Indian,Indian,True,0,[294 267 608 581]
+software engineer_indian_prompt_0_30.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 6.7391724e-08],"[0.99996735, 3.2689113e-05]",30-39,33,41,Middle,Middle,True,"[2.2338986e-07 4.8134225e-06 1.8277117e-04 1.2945081e-01 7.8133309e-01
+ 8.8484332e-02 5.4127723e-04 2.6996288e-06 2.6385329e-08]",2,Indian,Indian,True,0,[248 215 698 665]
+software engineer_indian_prompt_0_31.png,Male,Middle,Indian,Male,Male,Male,True,[9.999999e-01 1.356240e-07],"[0.9999889000000001, 1.1134525e-05]",30-39,32,38,Middle,Middle,True,"[3.5646454e-07 5.8817054e-06 3.8552046e-04 2.2955872e-01 6.8853480e-01
+ 8.0836907e-02 6.7174836e-04 5.9369445e-06 7.6252050e-08]",3,Indian,Indian,True,0,[337 295 599 556]
+software engineer_indian_prompt_0_32.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999857e-01 1.3815536e-06],"[0.9999958, 4.1968492e-06]",30-39,32,38,Middle,Middle,True,"[8.04339265e-07 1.34104303e-05 8.58839892e-04 1.23648331e-01
+ 7.59297490e-01 1.14775017e-01 1.39680249e-03 9.29753151e-06
+ 1.01031596e-07]",3,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_0_33.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 7.7814100e-08],"[0.9999523, 4.771417e-05]",30-39,30,32,Middle,Middle,True,"[1.0426433e-07 6.1767300e-06 1.5091426e-03 4.0464076e-01 5.7177806e-01
+ 2.1936640e-02 1.2768431e-04 1.4894532e-06 1.5240797e-08]",5,Indian,Indian,True,0,[390 241 651 503]
+software engineer_indian_prompt_0_34.png,Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 1.2903593e-08],"[0.99998924, 1.0711577e-05]",30-39,38,38,Middle,Middle,True,"[1.7809712e-07 2.9956930e-06 1.2901175e-04 8.8730909e-02 7.6960433e-01
+ 1.4033519e-01 1.1931290e-03 4.1822191e-06 2.4884157e-08]",3,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_0_35.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999946e-01 5.1213289e-07],"[0.9999298, 7.026399e-05]",30-39,34,37,Middle,Middle,True,"[8.7250072e-08 3.6880658e-06 5.0478952e-04 3.0680594e-01 6.6496158e-01
+ 2.7617320e-02 1.0564038e-04 9.6458609e-07 1.0739606e-08]",1,Indian,Indian,True,0,[337 216 599 477]
+software engineer_indian_prompt_0_36.png,Male,Middle,Indian,Male,Male,Male,True,[9.999997e-01 2.927431e-07],"[0.9999955, 4.5565225e-06]",30-39,32,48,Middle,Middle,True,"[1.1660429e-06 1.7231092e-05 5.9470785e-04 1.5999338e-01 7.6919961e-01
+ 6.9631703e-02 5.6003704e-04 2.1491878e-06 1.6376342e-08]",3,Indian,White,False,0,[302 316 677 692]
+software engineer_indian_prompt_0_37.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999875e-01 1.2207860e-06],"[0.99995186, 4.8173247000000003e-05]",30-39,32,40,Middle,Middle,True,"[6.49103242e-07 1.26915775e-05 6.45679538e-04 1.61731273e-01
+ 7.72639453e-01 6.43762276e-02 5.90176031e-04 3.72704017e-06
+ 4.21014370e-08]",3,Indian,Indian,True,0,[339 279 715 654]
+software engineer_indian_prompt_0_38.png,Male,Middle,Indian,Male,Male,Male,True,[1.000000e+00 4.938204e-08],"[0.9999745, 2.548776e-05]",30-39,34,46,Middle,Middle,True,"[4.1335824e-07 6.3157081e-06 7.0990407e-04 1.4764923e-01 7.5771564e-01
+ 9.2681646e-02 1.2266390e-03 1.0126488e-05 8.3459696e-08]",1,Indian,Indian,True,0,[263 240 640 615]
+software engineer_indian_prompt_0_39.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999690e-01 3.0528572e-06],"[0.9999921999999999, 7.736583e-06]",30-39,35,42,Middle,Middle,True,"[1.03690245e-05 3.33336066e-05 3.09987750e-04 3.01934071e-02
+ 4.98473346e-01 4.47596759e-01 2.31429618e-02 2.36075342e-04
+ 3.82430881e-06]",0,Indian,White,False,0,[358 235 670 549]
+software engineer_indian_prompt_0_4.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 8.3599616e-08],"[0.99992714, 7.283558e-05]",30-39,33,44,Middle,Middle,True,"[5.1502514e-07 2.4243127e-05 1.6032668e-03 3.4384310e-01 6.1974525e-01
+ 3.4557398e-02 2.2484837e-04 1.3717564e-06 1.2121684e-08]",2,Indian,Indian,True,0,[302 240 677 615]
+software engineer_indian_prompt_0_40.png,Male,Middle,Indian,Male,Male,Male,True,[9.999993e-01 7.004356e-07],"[0.9999813000000001, 1.8676613e-05]",30-39,32,35,Middle,Middle,True,"[8.2349104e-08 2.1556330e-06 5.6344632e-04 1.9401823e-01 7.6845127e-01
+ 3.6742538e-02 2.2055804e-04 1.7748290e-06 1.8182456e-08]",3,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_0_41.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 1.0807404e-07],"[0.9999498, 5.0183859999999996e-05]",30-39,33,41,Middle,Middle,True,"[2.6731053e-07 1.0924643e-05 8.9811295e-04 3.2963991e-01 6.4050555e-01
+ 2.8786929e-02 1.5750653e-04 7.7244715e-07 6.1470140e-09]",2,Indian,Indian,True,0,[339 240 715 615]
+software engineer_indian_prompt_0_42.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999779e-01 2.1574606e-06],"[0.9999957, 4.3454106e-06]",30-39,32,44,Middle,Middle,True,"[1.6112673e-06 1.3650036e-05 3.9718830e-04 8.2524844e-02 7.3169619e-01
+ 1.8164393e-01 3.6968626e-03 2.5461211e-05 3.2306886e-07]",3,Indian,White,False,0,[263 279 640 654]
+software engineer_indian_prompt_0_43.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 1.8304794e-07],"[0.9999750500000001, 2.4869516e-05]",30-39,29,39,Middle,Middle,False,"[6.4952195e-07 7.9367746e-06 3.2259990e-04 1.7300394e-01 7.6430327e-01
+ 6.1843522e-02 5.1532313e-04 2.7840870e-06 2.6849705e-08]",6,Indian,White,False,0,[407 250 624 468]
+software engineer_indian_prompt_0_44.png,Male,Young,Indian,Male,Male,Male,True,[9.9999970e-01 2.7163483e-07],"[0.9999924, 7.569874e-06]",20-29,34,38,Young,Middle,False,"[4.9629614e-07 2.9898203e-05 1.3433115e-03 5.3815675e-01 4.5046315e-01
+ 9.9781575e-03 2.7903312e-05 3.4120441e-07 3.9675943e-09]",9,Indian,Indian,True,0,[302 279 677 654]
+software engineer_indian_prompt_0_45.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999964e-01 3.4830336e-07],"[0.99990036, 9.961967e-05]",30-39,34,41,Middle,Middle,True,"[1.0501274e-06 2.6578293e-05 2.2596985e-03 3.3675465e-01 6.2888396e-01
+ 3.1846400e-02 2.2568896e-04 2.0078869e-06 1.9017286e-08]",1,Indian,Indian,True,0,[326 299 640 611]
+software engineer_indian_prompt_0_46.png,Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 4.9434515e-08],"[0.9999925000000001, 7.4657885e-06]",30-39,33,31,Middle,Middle,True,"[1.5774404e-07 1.4469603e-06 2.0011619e-04 1.0109659e-01 8.1778264e-01
+ 8.0237098e-02 6.7897281e-04 3.0091887e-06 2.0004608e-08]",2,Indian,Indian,True,0,[248 215 698 665]
+software engineer_indian_prompt_0_47.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999946e-01 5.2495000e-07],"[0.9999606, 3.9278218e-05]",30-39,33,38,Middle,Middle,True,"[2.7456133e-07 3.8758335e-06 3.6283096e-04 1.8705618e-01 7.3386908e-01
+ 7.7892631e-02 8.0885435e-04 6.1617120e-06 9.4016016e-08]",2,Indian,Indian,True,0,[326 235 640 549]
+software engineer_indian_prompt_0_48.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999958e-01 4.0719678e-07],"[0.9999587, 4.123854e-05]",30-39,32,43,Middle,Middle,True,"[1.2220896e-06 2.3816028e-05 1.2722329e-03 2.4219108e-01 6.9430143e-01
+ 6.1577901e-02 6.2484381e-04 7.4117202e-06 8.1228684e-08]",3,Indian,White,False,0,[302 316 677 692]
+software engineer_indian_prompt_0_49.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999970e-01 3.4618415e-07],"[0.99997795, 2.2110716e-05]",30-39,32,42,Middle,Middle,True,"[1.9812948e-07 3.3152567e-06 2.4470568e-04 1.6953436e-01 7.6693559e-01
+ 6.2900811e-02 3.7906310e-04 1.9463625e-06 1.7735525e-08]",3,Indian,White,False,0,[302 316 677 692]
+software engineer_indian_prompt_0_5.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999946e-01 4.9722763e-07],"[0.9999803, 1.9656855000000002e-05]",30-39,33,42,Middle,Middle,True,"[9.7427275e-08 1.6360132e-06 1.7841240e-04 9.8865025e-02 8.0656070e-01
+ 9.3813270e-02 5.7860726e-04 2.3619441e-06 1.8130788e-08]",2,Indian,Indian,True,0,[363 241 624 503]
+software engineer_indian_prompt_0_6.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999934e-01 6.3030433e-07],"[0.9999617000000001, 3.8207097e-05]",30-39,33,40,Middle,Middle,True,"[1.6649535e-07 1.2014332e-06 2.1798177e-04 2.3819169e-01 7.0848620e-01
+ 5.2698415e-02 3.9914565e-04 5.0748108e-06 8.2116060e-08]",2,Indian,White,False,0,[337 295 599 556]
+software engineer_indian_prompt_0_7.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 9.5016624e-08],"[0.9999901, 9.91986e-06]",30-39,31,44,Middle,Middle,True,"[1.07214227e-07 1.19032904e-06 1.00721823e-04 7.77129233e-02
+ 7.95715213e-01 1.24917656e-01 1.54632004e-03 5.75532249e-06
+ 4.69593218e-08]",4,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_0_8.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 1.7848056e-07],"[0.99997284, 2.7189117e-05]",30-39,33,38,Middle,Middle,True,"[6.7536128e-08 8.7151165e-07 1.4634305e-04 1.2514280e-01 8.1344187e-01
+ 6.0911011e-02 3.5579756e-04 1.3176109e-06 9.3746237e-09]",2,Indian,Indian,True,0,[302 240 677 615]
+software engineer_indian_prompt_0_9.png,Male,Middle,Indian,Male,Male,Male,True,[9.999993e-01 6.961336e-07],"[0.99998665, 1.3295327e-05]",30-39,33,40,Middle,Middle,True,"[2.8048214e-07 6.2436657e-06 9.0741075e-04 2.0244564e-01 7.3558486e-01
+ 6.0548969e-02 5.0311210e-04 3.5796618e-06 4.4498780e-08]",2,Indian,Indian,True,0,[407 272 624 490]
+software engineer_indian_prompt_1_0.png,Male,Middle,Indian,Male,Male,Male,True,[1.000000e+00 8.208557e-09],"[0.9999948999999999, 5.088976e-06]",30-39,35,40,Middle,Middle,True,"[2.7920144e-08 1.9438805e-06 9.7237586e-04 4.3269941e-01 5.4913217e-01
+ 1.7149789e-02 4.3989534e-05 3.0559724e-07 1.8721338e-09]",0,Indian,Indian,True,0,[358 172 670 485]
+software engineer_indian_prompt_1_1.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 7.7251990e-08],"[0.9999881, 1.1926376000000001e-05]",30-39,30,37,Middle,Middle,True,"[3.6849979e-08 7.5053282e-07 1.6357380e-04 2.0157430e-01 7.4489152e-01
+ 5.3104896e-02 2.6316321e-04 1.7318064e-06 1.9934888e-08]",5,Indian,White,False,0,[248 305 698 756]
+software engineer_indian_prompt_1_10.png,Male,Middle,Indian,Male,Male,Male,True,[9.999998e-01 1.889414e-07],"[0.9999955, 4.526197e-06]",30-39,32,40,Middle,Middle,True,"[6.9966559e-06 3.7274085e-04 1.0202340e-02 2.9109102e-01 6.1324620e-01
+ 8.3150156e-02 1.9097865e-03 2.0605245e-05 1.6077651e-07]",3,Indian,Indian,True,0,[339 240 715 615]
+software engineer_indian_prompt_1_11.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999982e-01 2.1515648e-07],"[0.9998361, 0.00016386578]",30-39,32,47,Middle,Middle,True,"[1.9716080e-07 4.2805596e-06 4.4325498e-04 2.0250444e-01 7.5703663e-01
+ 3.9802134e-02 2.0792196e-04 1.1402063e-06 1.1745517e-08]",3,Indian,White,False,0,[358 235 670 549]
+software engineer_indian_prompt_1_12.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 1.0640007e-07],"[0.9999816, 1.8339028e-05]",30-39,32,34,Middle,Middle,True,"[4.1043205e-07 5.1449188e-06 6.0103717e-04 1.4273643e-01 7.5148940e-01
+ 1.0340111e-01 1.7484607e-03 1.7693628e-05 2.3808121e-07]",3,Indian,Indian,True,0,[385 207 602 424]
+software engineer_indian_prompt_1_13.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999928e-01 6.7166116e-07],"[0.9999903, 9.6099864e-06]",30-39,34,40,Middle,Middle,True,"[2.59510813e-07 3.41762052e-06 3.26833717e-04 1.10394299e-01
+ 7.80196488e-01 1.07874535e-01 1.19745545e-03 6.57296050e-06
+ 7.63492451e-08]",1,Indian,Indian,True,0,[326 267 640 581]
+software engineer_indian_prompt_1_14.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999875e-01 1.2916208e-06],"[0.9999576600000001, 4.233174e-05]",30-39,36,39,Middle,Middle,True,"[4.5128058e-07 9.2978962e-06 6.1410747e-04 2.5543565e-01 6.7609620e-01
+ 6.7242995e-02 5.9317320e-04 8.0085674e-06 1.1638491e-07]",1,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_1_15.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 9.0828983e-08],"[0.9998421000000001, 0.00015791573]",30-39,32,34,Middle,Middle,True,"[7.2595498e-08 2.4687163e-06 7.5233664e-04 3.3934274e-01 6.3464957e-01
+ 2.5154280e-02 9.7941956e-05 5.9036245e-07 4.5631809e-09]",3,Indian,Indian,True,0,[302 240 677 615]
+software engineer_indian_prompt_1_16.png,Male,Middle,Indian,Male,Male,Male,True,[9.999999e-01 1.477934e-07],"[0.9999361, 6.387151300000001e-05]",30-39,28,35,Middle,Middle,False,"[2.2540821e-07 2.4139201e-06 1.9355516e-04 2.0265934e-01 7.3510796e-01
+ 6.1436914e-02 5.9427501e-04 5.1989009e-06 6.7881757e-08]",7,Indian,White,False,0,[302 240 677 615]
+software engineer_indian_prompt_1_17.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 9.2657530e-08],"[0.9999389999999999, 6.1089494e-05]",30-39,32,36,Middle,Middle,True,"[3.8822201e-08 5.2231445e-07 2.8330952e-04 2.8198192e-01 6.7029333e-01
+ 4.7012452e-02 4.2428565e-04 4.0462460e-06 5.9000026e-08]",3,Indian,Indian,True,0,[302 279 677 654]
+software engineer_indian_prompt_1_18.png,Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 2.6061945e-08],"[0.9999783, 2.174239e-05]",30-39,32,51,Middle,Middle,True,"[3.5945082e-08 2.0772591e-06 8.2634261e-04 3.0079803e-01 6.3384771e-01
+ 6.4063407e-02 4.5924992e-04 3.1868608e-06 2.4415614e-08]",3,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_1_19.png,Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 1.0291841e-08],"[0.9998826599999999, 0.00011731491]",30-39,31,33,Middle,Middle,True,"[5.72150824e-08 7.91942568e-07 3.42402520e-04 4.48882431e-01
+ 5.22404134e-01 2.81903520e-02 1.77992028e-04 1.84814405e-06
+ 1.47863926e-08]",4,Indian,Indian,True,0,[358 299 670 611]
+software engineer_indian_prompt_1_2.png,Male,Middle,Indian,Male,Male,Male,True,[9.99999881e-01 1.06661446e-07],"[0.99999115, 8.8535296e-06]",30-39,32,41,Middle,Middle,True,"[4.80964445e-07 3.99324153e-06 1.07069216e-04 4.68007810e-02
+ 7.34782696e-01 2.14882553e-01 3.40954564e-03 1.27674630e-05
+ 1.01518083e-07]",3,Indian,White,False,0,[390 241 651 503]
+software engineer_indian_prompt_1_20.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 7.8027519e-08],"[0.9999809000000001, 1.9029426999999998e-05]",30-39,32,43,Middle,Middle,True,"[6.5735200e-08 7.2321109e-07 1.0329214e-04 9.9629141e-02 8.1449574e-01
+ 8.5118555e-02 6.5043446e-04 2.0583218e-06 1.4074979e-08]",3,Indian,Indian,True,0,[326 235 640 549]
+software engineer_indian_prompt_1_21.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999958e-01 3.6469888e-07],"[0.9999832000000001, 1.6822494e-05]",30-39,32,41,Middle,Middle,True,"[5.1006595e-07 4.9326072e-06 3.2243546e-04 1.3383412e-01 7.2869343e-01
+ 1.3565099e-01 1.4792678e-03 1.4097636e-05 2.0730486e-07]",3,Indian,White,False,0,[263 202 640 578]
+software engineer_indian_prompt_1_22.png,Male,Middle,Indian,Male,Male,Male,True,[1.000000e+00 4.926189e-09],"[0.9999563600000001, 4.3593957e-05]",30-39,32,31,Middle,Middle,True,"[1.7930159e-08 2.5075013e-07 1.2373527e-04 3.1042102e-01 6.5928149e-01
+ 3.0019850e-02 1.5235187e-04 1.3048369e-06 1.2634140e-08]",3,Indian,White,False,0,[358 267 670 581]
+software engineer_indian_prompt_1_23.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999958e-01 4.2389448e-07],"[0.9999831, 1.6896258e-05]",30-39,29,37,Middle,Middle,False,"[7.5398805e-07 3.7119778e-05 3.2952949e-03 2.2895503e-01 7.0068902e-01
+ 6.6349454e-02 6.6703884e-04 6.1739661e-06 7.9286032e-08]",6,Indian,Indian,True,0,[326 299 640 611]
+software engineer_indian_prompt_1_24.png,Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 2.9400821e-08],"[0.9999585000000001, 4.1450104e-05]",30-39,33,40,Middle,Middle,True,"[5.8522477e-07 1.7023525e-05 1.6765809e-03 3.7414774e-01 5.9269923e-01
+ 3.1241639e-02 2.1524078e-04 1.8708695e-06 1.4825364e-08]",2,Indian,White,False,0,[326 267 640 581]
+software engineer_indian_prompt_1_25.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.4772407e-07],"[0.9999678, 3.2226893e-05]",30-39,33,39,Middle,Middle,True,"[3.3350508e-07 5.2549467e-06 3.2407558e-04 2.2709386e-01 7.1766913e-01
+ 5.4633208e-02 2.7214378e-04 2.0470093e-06 2.3109761e-08]",2,Indian,Indian,True,0,[358 267 670 581]
+software engineer_indian_prompt_1_26.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 9.2672430e-08],"[0.9999838, 1.6269623e-05]",30-39,32,42,Middle,Middle,True,"[1.0934493e-07 1.0214628e-06 2.0547137e-04 1.4391813e-01 7.7361161e-01
+ 8.1270382e-02 9.8679168e-04 6.4176434e-06 7.0454249e-08]",3,Indian,Indian,True,0,[302 240 677 615]
+software engineer_indian_prompt_1_27.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.3497383e-07],"[0.9999966, 3.3997005e-06]",30-39,33,40,Middle,Middle,True,"[1.3577504e-07 1.8014781e-06 3.6301656e-04 1.9339786e-01 7.3591602e-01
+ 6.9449246e-02 8.6371804e-04 8.0538621e-06 1.2115765e-07]",2,Indian,White,False,0,[326 267 640 581]
+software engineer_indian_prompt_1_28.png,Male,Middle,Indian,Male,Male,Male,True,[9.999992e-01 7.354881e-07],"[0.999997, 2.9439258e-06]",30-39,31,41,Middle,Middle,True,"[5.1252340e-07 4.4829158e-06 4.0703561e-04 1.9746016e-01 7.4990749e-01
+ 5.1788330e-02 4.2733675e-04 4.5439547e-06 6.8432385e-08]",4,Indian,White,False,0,[302 316 677 692]
+software engineer_indian_prompt_1_29.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999672e-01 3.2806379e-06],"[0.9999852, 1.4811322e-05]",30-39,36,35,Middle,Middle,True,"[9.4499283e-06 6.3017404e-05 8.3745056e-04 8.4645182e-02 6.7294627e-01
+ 2.3486383e-01 6.5709897e-03 6.2856328e-05 9.1690350e-07]",1,Indian,Indian,True,0,[263 240 640 615]
+software engineer_indian_prompt_1_3.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 5.6931253e-08],"[0.9998945, 0.00010543528999999999]",30-39,35,35,Middle,Middle,True,"[1.1193825e-07 3.0693659e-06 2.4508519e-04 3.1419995e-01 6.6297770e-01
+ 2.2515958e-02 5.7777219e-05 2.7736758e-07 2.5509006e-09]",0,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_1_30.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 4.1200590e-08],"[0.9999788, 2.122948e-05]",30-39,33,39,Middle,Middle,True,"[1.5720305e-07 3.8110734e-06 1.9778295e-04 1.4856921e-01 7.7566612e-01
+ 7.5165346e-02 3.9570211e-04 1.8512087e-06 1.7872015e-08]",2,Indian,Indian,True,0,[358 267 670 581]
+software engineer_indian_prompt_1_31.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.3590355e-07],"[0.9999902, 9.803937e-06]",30-39,34,41,Middle,Middle,True,"[2.4918114e-07 3.6981562e-06 2.8962101e-04 1.9708712e-01 7.1606499e-01
+ 8.5742898e-02 8.0238387e-04 8.8558545e-06 1.4977476e-07]",1,Indian,Indian,True,0,[339 316 715 692]
+software engineer_indian_prompt_1_32.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 2.5931820e-07],"[0.99999664, 3.3009849999999996e-06]",30-39,32,36,Middle,Middle,True,"[5.4872214e-07 1.4111494e-05 1.2045923e-03 2.1673122e-01 7.1840811e-01
+ 6.3099481e-02 5.3762656e-04 4.2399311e-06 4.3563279e-08]",3,Indian,Indian,True,0,[363 241 624 503]
+software engineer_indian_prompt_1_33.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 7.1622900e-08],"[0.9999481, 5.184497e-05]",30-39,29,32,Middle,Middle,False,"[9.9848464e-08 5.9776535e-06 1.4162993e-03 3.8745490e-01 5.8959365e-01
+ 2.1412620e-02 1.1519817e-04 1.2113455e-06 1.1624404e-08]",6,Indian,Indian,True,0,[339 279 715 654]
+software engineer_indian_prompt_1_34.png,Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 2.3626589e-08],"[0.999996, 3.9364526e-06]",30-39,32,35,Middle,Middle,True,"[1.4096382e-07 7.2501052e-06 1.1445879e-03 3.3228639e-01 6.3652855e-01
+ 2.9856222e-02 1.7567135e-04 1.2090015e-06 9.0949781e-09]",3,Indian,Indian,True,0,[263 240 640 615]
+software engineer_indian_prompt_1_35.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999982e-01 1.8393851e-07],"[0.99993095, 6.8991184e-05]",30-39,33,37,Middle,Middle,True,"[3.7155292e-08 2.8666584e-06 7.5557345e-04 4.3676636e-01 5.4917371e-01
+ 1.3268362e-02 3.2861964e-05 2.9320964e-07 2.5766174e-09]",2,Indian,Indian,True,0,[363 241 624 503]
+software engineer_indian_prompt_1_36.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.6960894e-07],"[0.9999945, 5.480842e-06]",30-39,33,47,Middle,Middle,True,"[3.5030894e-07 4.6145915e-06 2.5529589e-04 1.4022787e-01 7.9740071e-01
+ 6.1701424e-02 4.0855011e-04 1.1381867e-06 9.0993382e-09]",2,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_1_37.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999917e-01 8.5634338e-07],"[0.9999312, 6.878203000000001e-05]",30-39,32,40,Middle,Middle,True,"[6.8872617e-07 1.4917200e-05 7.8359450e-04 1.5639062e-01 7.6814091e-01
+ 7.3882423e-02 7.8134949e-04 5.4355519e-06 5.9632903e-08]",3,Indian,Indian,True,0,[326 299 640 611]
+software engineer_indian_prompt_1_38.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 9.3596327e-08],"[0.9999759, 2.4139209999999998e-05]",30-39,34,47,Middle,Middle,True,"[3.7637199e-07 6.2918475e-06 7.2524272e-04 1.6617067e-01 7.4766660e-01
+ 8.4369205e-02 1.0528943e-03 8.6834207e-06 7.9292526e-08]",1,Indian,Indian,True,0,[358 267 670 581]
+software engineer_indian_prompt_1_39.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999535e-01 4.6830269e-06],"[0.9999924, 7.6118397e-06]",30-39,34,42,Middle,Middle,True,"[6.04716706e-06 2.41383077e-05 3.14251578e-04 3.88971344e-02
+ 5.95629930e-01 3.52744281e-01 1.22719165e-02 1.10447472e-04
+ 1.77780271e-06]",1,Indian,White,False,0,[302 279 677 654]
+software engineer_indian_prompt_1_4.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999982e-01 1.9787599e-07],"[0.9998846399999999, 0.00011533586]",30-39,30,39,Middle,Middle,True,"[5.2287868e-07 1.9550518e-05 1.6802879e-03 4.1834992e-01 5.5835426e-01
+ 2.1484356e-02 1.1040882e-04 7.5257634e-07 7.9012734e-09]",5,Indian,Indian,True,0,[263 316 640 692]
+software engineer_indian_prompt_1_40.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999928e-01 6.9750723e-07],"[0.9999676, 3.2472801e-05]",30-39,32,33,Middle,Middle,True,"[1.19892832e-07 4.12826103e-06 7.74439715e-04 2.54160404e-01
+ 7.18561351e-01 2.63935849e-02 1.05177234e-04 8.16505917e-07
+ 7.79446907e-09]",3,Indian,Indian,True,0,[302 240 677 615]
+software engineer_indian_prompt_1_41.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999964e-01 3.3979751e-07],"[0.9999800999999999, 1.9924970999999997e-05]",30-39,34,40,Middle,Middle,True,"[7.2978179e-07 1.4808119e-05 7.2426093e-04 1.8932195e-01 7.4891835e-01
+ 6.0409240e-02 6.0664956e-04 4.0445348e-06 3.6130832e-08]",1,Indian,Indian,True,0,[294 261 744 711]
+software engineer_indian_prompt_1_42.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999791e-01 2.1084995e-06],"[0.9999914599999999, 8.590635999999999e-06]",30-39,32,46,Middle,Middle,True,"[1.1089774e-06 9.0861931e-06 3.1379328e-04 9.1169998e-02 7.7518517e-01
+ 1.3126273e-01 2.0455632e-03 1.2321266e-05 1.5256272e-07]",3,Indian,White,False,0,[358 267 670 581]
+software engineer_indian_prompt_1_43.png,Male,Middle,Indian,Male,Male,Male,True,[9.999999e-01 1.330301e-07],"[0.9999790000000001, 2.0977696e-05]",30-39,33,42,Middle,Middle,True,"[8.7505941e-07 1.1390462e-05 3.1702992e-04 1.9941330e-01 7.3227984e-01
+ 6.7478970e-02 4.9574446e-04 2.8353682e-06 2.8117899e-08]",2,Indian,White,False,0,[363 241 624 503]
+software engineer_indian_prompt_1_44.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.6266286e-07],"[0.9999907, 9.287569e-06]",30-39,34,37,Middle,Middle,True,"[3.6128947e-07 1.9326670e-05 1.0209136e-03 4.6256131e-01 5.2084100e-01
+ 1.5506729e-02 4.9835940e-05 5.5226462e-07 5.3185021e-09]",1,Indian,Indian,True,0,[326 299 640 611]
+software engineer_indian_prompt_1_45.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999934e-01 6.1910401e-07],"[0.9998921, 0.00010791632000000001]",30-39,34,42,Middle,Middle,True,"[9.4511404e-07 1.3631971e-05 9.9774427e-04 1.9067937e-01 7.4750400e-01
+ 6.0173035e-02 6.2759704e-04 3.6334729e-06 4.0866109e-08]",1,Indian,Indian,True,0,[363 189 624 450]
+software engineer_indian_prompt_1_46.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999994e-01 5.5253150e-08],"[0.9999852, 1.4816746999999998e-05]",30-39,39,39,Middle,Middle,True,"[3.3550197e-07 1.9209742e-06 2.0062985e-04 6.6871136e-02 7.5288284e-01
+ 1.7663482e-01 3.3871075e-03 2.1081656e-05 1.5901433e-07]",4,Indian,White,False,0,[358 267 670 581]
+software engineer_indian_prompt_1_47.png,Male,Middle,Indian,Male,Male,Male,True,[9.999995e-01 4.867606e-07],"[0.9999778, 2.2153792e-05]",30-39,32,41,Middle,Middle,True,"[1.2804965e-07 1.6124463e-06 2.9158941e-04 2.1653700e-01 7.2593766e-01
+ 5.6677252e-02 5.4945395e-04 5.1909710e-06 9.2381761e-08]",3,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_1_48.png,Male,Middle,Indian,Male,Male,Male,True,[9.999995e-01 5.436490e-07],"[0.9999534, 4.658755e-05]",30-39,32,41,Middle,Middle,True,"[1.4158869e-06 2.6166674e-05 1.5346028e-03 2.4025221e-01 6.8633097e-01
+ 7.1018122e-02 8.2505582e-04 1.1321669e-05 1.3346866e-07]",3,Indian,White,False,0,[326 235 640 549]
+software engineer_indian_prompt_1_49.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999970e-01 3.2374268e-07],"[0.99998245, 1.7534619000000002e-05]",30-39,33,38,Middle,Middle,True,"[8.8798132e-08 2.0349778e-06 2.2569485e-04 2.1377228e-01 7.4507886e-01
+ 4.0738620e-02 1.8146045e-04 9.7196289e-07 9.4065999e-09]",2,Indian,White,False,0,[326 299 640 611]
+software engineer_indian_prompt_1_5.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999952e-01 4.9109934e-07],"[0.99997925, 2.0685152e-05]",30-39,33,42,Middle,Middle,True,"[8.93931329e-08 1.82038082e-06 2.19721042e-04 1.07113265e-01
+ 8.07045043e-01 8.51348266e-02 4.83338285e-04 1.93559777e-06
+ 1.42817873e-08]",2,Indian,Indian,True,0,[302 316 677 692]
+software engineer_indian_prompt_1_6.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 2.2663336e-07],"[0.99998405, 1.5948783e-05]",30-39,33,41,Middle,Middle,True,"[3.3154819e-07 2.2655597e-06 2.5205617e-04 2.8751948e-01 6.6848522e-01
+ 4.3470018e-02 2.6681423e-04 3.6727329e-06 6.0285217e-08]",2,Indian,White,False,0,[339 240 715 615]
+software engineer_indian_prompt_1_7.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999893e-01 1.1030246e-06],"[0.9999901, 9.883845000000002e-06]",30-39,33,37,Middle,Middle,True,"[4.4900432e-07 5.6666895e-06 3.5331363e-04 1.0679427e-01 7.8829300e-01
+ 1.0303994e-01 1.5047112e-03 8.4861476e-06 9.2736386e-08]",2,Indian,White,False,0,[326 267 640 581]
+software engineer_indian_prompt_1_8.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999988e-01 1.2985463e-07],"[0.9999764999999999, 2.3506529999999998e-05]",30-39,33,38,Middle,Middle,True,"[6.8794400e-08 9.9605938e-07 1.7850887e-04 1.6281365e-01 7.8892660e-01
+ 4.7800131e-02 2.7884266e-04 1.1809180e-06 9.1765404e-09]",2,Indian,Indian,True,0,[248 305 698 756]
+software engineer_indian_prompt_1_9.png,Male,Middle,Indian,Male,Male,Male,True,[9.9999964e-01 4.2116443e-07],"[0.9999902, 9.753373e-06]",30-39,33,39,Middle,Middle,True,"[3.8817569e-07 6.0722255e-06 5.6454184e-04 1.6322127e-01 7.7143097e-01
+ 6.4192049e-02 5.8093487e-04 3.6805031e-06 4.1391662e-08]",2,Indian,Indian,True,0,[294 235 608 549]

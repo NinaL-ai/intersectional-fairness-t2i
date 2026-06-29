@@ -1,0 +1,106 @@
+image,gender,age,race,gender_fair,gender_deepface,gender_insightface,equal_gender,gender_scores_fair,gender_scores_deep,age_fair,age_deepface,age_insightface,age_bin_fair,age_bin_insightface,equal_age,age_scores_fair,age_diff,race_fair,race4_deepface,equal_race,face_fair,bbox
+fitness instructor_female_0.png,Female,Young,White,Female,Female,Female,True,[2.7625820e-06 9.9999726e-01],"[3.9778925e-05, 0.9999602]",20-29,30,34.0,Young,Middle,False,"[2.4733298e-09 8.4586900e-06 2.6619149e-02 8.0983299e-01 1.6258091e-01
+ 9.5712201e-04 1.3659559e-06 6.9986528e-09 6.9644304e-11]",5,White,White,True,0,[363 189 624 450]
+fitness instructor_female_1.png,Female,Middle,White,Female,Female,Female,True,[5.0930299e-05 9.9994904e-01],"[0.0007217674, 0.99927826]",30-39,32,44.0,Middle,Middle,True,"[1.2079227e-07 8.6556347e-06 1.7245935e-03 1.4749363e-01 6.7226517e-01
+ 1.6244489e-01 1.5644314e-02 4.1488584e-04 3.7521618e-06]",3,White,White,True,0,[428 152 579 303]
+fitness instructor_female_10.png,Female,Young,White,Female,Female,Female,True,[4.0515893e-05 9.9995947e-01],"[1.2558004999999998e-06, 0.9999987]",20-29,33,29.0,Young,Young,False,"[8.9075574e-09 9.2621649e-06 2.3317944e-02 6.6766441e-01 3.0286667e-01
+ 6.0534845e-03 8.7442328e-05 8.5263696e-07 1.2686685e-08]",8,White,White,True,0,[284 241 545 503]
+fitness instructor_female_11.png,Female,Young,White,Female,Female,Female,True,[1.6037842e-04 9.9983960e-01],"[0.00019638535, 0.9998036]",20-29,30,31.0,Young,Middle,False,"[7.8089517e-09 1.5379965e-06 4.4992319e-03 4.9079007e-01 4.8675409e-01
+ 1.7718200e-02 2.3469373e-04 2.2567094e-06 1.8812672e-08]",5,White,White,True,0,[275 162 492 380]
+fitness instructor_female_12.png,Female,Middle,White,Female,Female,Female,True,[1.0992516e-05 9.9998897e-01],"[0.0001757563, 0.9998242]",30-39,31,47.0,Middle,Middle,True,"[6.6549903e-09 6.3408874e-07 7.8853924e-04 1.2484523e-01 7.3610008e-01
+ 1.3549978e-01 2.7294415e-03 3.6016754e-05 3.4346326e-07]",4,White,White,True,0,[248 215 698 665]
+fitness instructor_female_13.png,Female,Middle,White,Female,Female,Female,True,[5.0291765e-06 9.9999499e-01],"[2.952473e-06, 0.999997]",30-39,31,37.0,Middle,Middle,True,"[1.27237409e-09 7.34952380e-07 3.46258888e-03 4.30485368e-01
+ 5.51069379e-01 1.49105415e-02 7.07028084e-05 6.92871595e-07
+ 7.08101489e-09]",4,White,White,True,0,[248 261 698 711]
+fitness instructor_female_14.png,Female,Middle,White,Female,Female,Female,True,[2.3730945e-05 9.9997628e-01],"[0.0031964657, 0.9968035000000001]",30-39,33,40.0,Middle,Middle,True,"[7.7098981e-08 1.4182004e-06 3.7411376e-04 6.0514610e-02 6.3710517e-01
+ 2.8523508e-01 1.6467722e-02 2.9903898e-04 2.8268994e-06]",2,White,White,True,0,[341 295 559 513]
+fitness instructor_female_15.png,Female,Middle,White,Female,Female,Female,True,[1.0801637e-05 9.9998915e-01],"[8.596824e-06, 0.9999914599999999]",30-39,30,44.0,Middle,Middle,True,"[9.5455999e-09 4.2703923e-06 5.3881751e-03 4.5635211e-01 5.2422094e-01
+ 1.3910789e-02 1.2272909e-04 9.1410743e-07 5.9650640e-09]",5,White,White,True,0,[225 202 601 578]
+fitness instructor_female_16.png,Female,Young,White,Female,Female,Female,True,[5.1108760e-05 9.9994886e-01],"[5.0114562e-07, 0.99999954]",20-29,31,34.0,Young,Middle,False,"[7.7704225e-09 4.2867359e-06 1.2052947e-02 6.9962239e-01 2.8498268e-01
+ 3.2895140e-03 4.7786139e-05 4.4322695e-07 3.3772414e-09]",6,White,White,True,0,[358 172 670 485]
+fitness instructor_female_17.png,Female,Young,White,Female,Female,Female,True,[1.5645226e-05 9.9998438e-01],"[9.277468e-06, 0.9999907]",20-29,30,35.0,Young,Middle,False,"[3.8217496e-09 8.3939494e-06 1.3240224e-02 6.9500822e-01 2.8925398e-01
+ 2.4725355e-03 1.6582255e-05 7.1557054e-08 7.4935086e-10]",5,White,White,True,0,[339 279 715 654]
+fitness instructor_female_18.png,Female,Young,White,Female,Female,Female,True,[1.6883720e-05 9.9998313e-01],"[1.7023477e-06, 0.9999983]",20-29,30,35.0,Young,Middle,False,"[4.8727751e-09 2.8513216e-06 6.4064264e-03 6.0903281e-01 3.7572706e-01
+ 8.7528797e-03 7.7390185e-05 6.4614142e-07 5.8351253e-09]",5,White,White,True,0,[202  72 743 614]
+fitness instructor_female_19.png,Female,Middle,White,Female,Female,Female,True,[1.2903748e-05 9.9998713e-01],"[0.014295951, 0.9857041]",30-39,32,51.0,Middle,Middle,True,"[9.6631197e-08 2.5033828e-06 4.2527070e-04 5.7109695e-02 5.7981592e-01
+ 3.3353990e-01 2.8606400e-02 4.9562944e-04 4.6298055e-06]",3,White,White,True,0,[390 216 651 477]
+fitness instructor_female_2.png,Female,Middle,White,Female,Female,Female,True,[4.011716e-05 9.999599e-01],"[0.00037532996, 0.9996246]",30-39,32,42.0,Middle,Middle,True,"[1.2075354e-08 1.5042418e-06 1.8903877e-03 2.4592611e-01 6.6035366e-01
+ 8.9718394e-02 2.0876394e-03 2.2079515e-05 2.3097310e-07]",3,White,White,True,0,[384 244 535 395]
+fitness instructor_female_20.png,Female,Middle,White,Female,Female,Female,True,[4.659799e-05 9.999534e-01],"[2.3257816e-05, 0.9999766999999999]",30-39,32,31.0,Middle,Middle,True,"[2.2756206e-08 7.4284048e-06 7.8386981e-03 4.2433998e-01 5.4956055e-01
+ 1.8035378e-02 2.1614830e-04 1.8291126e-06 1.8946135e-08]",3,White,White,True,0,[384 122 535 272]
+fitness instructor_female_21.png,Female,Middle,White,Female,Female,Female,True,[6.1687306e-06 9.9999386e-01],"[1.6378394e-05, 0.9999836999999999]",30-39,31,46.0,Middle,Middle,True,"[1.4573946e-08 2.6149814e-06 3.7704450e-03 4.2542911e-01 5.3761405e-01
+ 3.2345593e-02 8.3140261e-04 6.6880916e-06 5.6029045e-08]",4,White,White,True,0,[363 241 624 503]
+fitness instructor_female_22.png,Female,Young,White,Female,Female,Female,True,[1.3235038e-04 9.9986768e-01],"[0.00026758585, 0.9997324000000001]",20-29,30,42.0,Young,Middle,False,"[1.12623875e-08 2.01949588e-05 3.36773880e-02 6.55344009e-01
+ 3.04618865e-01 6.29228959e-03 4.68315702e-05 3.65017456e-07
+ 3.50959839e-09]",5,White,White,True,0,[341 162 559 380]
+fitness instructor_female_23.png,Female,Young,White,Female,Female,Female,True,[1.9910283e-06 9.9999797e-01],"[8.539974e-06, 0.9999914599999999]",20-29,30,36.0,Young,Middle,False,"[2.2954261e-09 9.7209859e-06 2.2858759e-02 7.4129963e-01 2.3481630e-01
+ 1.0127493e-03 2.7781798e-06 1.4095964e-08 9.9775445e-11]",5,White,White,True,0,[302 354 677 730]
+fitness instructor_female_24.png,Female,Young,White,Female,Female,Female,True,[2.5319002e-04 9.9974680e-01],"[0.0094317365, 0.9905683000000001]",20-29,31,26.0,Young,Young,False,"[3.8661558e-08 1.3484363e-05 7.4764867e-03 5.1840365e-01 4.6018445e-01
+ 1.3773906e-02 1.4648422e-04 1.5081620e-06 1.7317236e-08]",6,White,White,True,0,[413 136 564 288]
+fitness instructor_female_25.png,Female,Young,White,Female,Female,Female,True,[2.2832430e-05 9.9997723e-01],"[1.2682361999999998e-05, 0.9999872999999999]",20-29,31,40.0,Young,Middle,False,"[5.1287472e-08 2.8672868e-05 1.1215912e-02 5.0418144e-01 4.6260029e-01
+ 2.1467790e-02 4.9956341e-04 6.0679508e-06 6.0806663e-08]",6,White,White,True,0,[390 189 651 450]
+fitness instructor_female_26.png,Female,Middle,White,Female,Female,Female,True,[2.0065376e-05 9.9997997e-01],"[1.1050950999999999e-05, 0.9999889000000001]",30-39,32,44.0,Middle,Middle,True,"[4.6889344e-08 6.6406842e-06 2.9294130e-03 3.1944600e-01 6.1006838e-01
+ 6.2402081e-02 5.0331219e-03 1.1234480e-04 1.9461534e-06]",3,White,White,True,0,[294 168 744 619]
+fitness instructor_female_27.png,Female,Middle,White,Female,Female,Female,True,[5.709876e-06 9.999943e-01],"[5.486001e-07, 0.9999994]",30-39,30,38.0,Middle,Middle,True,"[3.6665022e-09 5.2927345e-07 1.1749453e-03 3.4915903e-01 6.2896293e-01
+ 2.0358946e-02 3.4021516e-04 3.3926785e-06 2.7065235e-08]",5,White,White,True,0,[302 316 677 692]
+fitness instructor_female_28.png,Female,Middle,White,Female,Female,Female,True,[0.00107132 0.99892867],"[3.642809e-06, 0.9999963]",30-39,31,29.0,Middle,Young,True,"[1.0095408e-07 6.6063858e-06 5.6910459e-03 4.3058017e-01 5.3730696e-01
+ 2.5890408e-02 5.2060391e-04 4.1567819e-06 2.2940217e-08]",4,White,White,True,0,[294 203 608 517]
+fitness instructor_female_29.png,Female,Middle,White,Female,Female,Female,True,[1.090741e-04 9.998910e-01],"[0.0020409933999999998, 0.997959]",30-39,31,47.0,Middle,Middle,True,"[1.3720056e-08 2.4007736e-06 4.4599590e-03 4.2158669e-01 5.4824084e-01
+ 2.5125854e-02 5.7691877e-04 7.2347943e-06 5.7478616e-08]",4,White,White,True,0,[400 162 582 344]
+fitness instructor_female_3.png,Female,Middle,White,Female,Female,Female,True,[6.379291e-05 9.999362e-01],"[0.0005085473499999999, 0.9994914]",30-39,31,38.0,Middle,Middle,True,"[5.0034867e-08 4.9080236e-06 2.4574157e-03 2.0567322e-01 7.3953813e-01
+ 5.1416453e-02 8.9901855e-04 1.0799691e-05 1.0953036e-07]",4,White,White,True,0,[363 216 624 477]
+fitness instructor_female_30.png,Female,Middle,White,Female,Female,Female,True,[8.9988450e-04 9.9910015e-01],"[0.0009192956, 0.9990806600000001]",30-39,31,37.0,Middle,Middle,True,"[4.5891397e-08 5.1050488e-06 5.2586230e-03 3.5464889e-01 5.9264106e-01
+ 4.5421071e-02 1.9941765e-03 3.0818170e-05 2.2266792e-07]",4,White,White,True,0,[407 250 624 468]
+fitness instructor_female_31.png,Female,Young,White,Female,Female,Female,True,[1.9184647e-05 9.9998081e-01],"[8.5877447e-06, 0.9999914599999999]",20-29,29,37.0,Young,Middle,True,"[1.3137112e-08 1.1502571e-05 1.7873498e-02 5.9431630e-01 3.8075995e-01
+ 6.9924239e-03 4.5961871e-05 3.0976057e-07 2.9098199e-09]",4,White,White,True,0,[202 238 743 778]
+fitness instructor_female_32.png,Female,Middle,White,Female,Female,Female,True,[4.5718367e-05 9.9995428e-01],"[0.005042461000000001, 0.9949575]",30-39,32,43.0,Middle,Middle,True,"[1.3024344e-08 6.8900124e-07 1.1654727e-03 1.7600019e-01 7.3312068e-01
+ 8.7789446e-02 1.9111250e-03 1.2332079e-05 5.1991464e-08]",3,White,White,True,0,[400 162 582 344]
+fitness instructor_female_33.png,Female,Young,White,Female,Female,Female,True,[6.8608741e-04 9.9931395e-01],"[0.021311696, 0.9786883500000001]",20-29,32,29.0,Young,Young,False,"[2.3035783e-08 5.7809925e-06 7.1268566e-03 5.0393283e-01 4.7522852e-01
+ 1.3599226e-02 1.0593568e-04 9.3262150e-07 9.0701651e-09]",7,White,White,True,0,[337 136 599 398]
+fitness instructor_female_34.png,Female,Middle,White,Female,Female,Female,True,[2.3073282e-05 9.9997693e-01],"[2.0434712e-06, 0.99999794]",30-39,32,37.0,Middle,Middle,True,"[3.8736876e-09 1.3474166e-06 3.1295884e-03 4.1549402e-01 5.6658489e-01
+ 1.4582047e-02 2.0664226e-04 1.4284648e-06 6.7615553e-09]",3,White,White,True,0,[463 256 550 343]
+fitness instructor_female_35.png,Female,Young,White,Female,Female,Female,True,[2.8443576e-05 9.9997157e-01],"[0.023346230000000003, 0.97665375]",20-29,30,38.0,Young,Middle,False,"[1.5709956e-08 1.3247848e-05 1.1698701e-02 7.0994979e-01 2.7344364e-01
+ 4.7891876e-03 1.0362870e-04 1.8408854e-06 2.4913424e-08]",5,White,White,True,0,[326 203 640 517]
+fitness instructor_female_36.png,Female,Young,White,Female,Female,Female,True,[2.5220256e-06 9.9999750e-01],"[5.695022e-06, 0.9999943]",20-29,32,40.0,Young,Middle,False,"[4.3413944e-09 6.1520282e-06 1.7804747e-02 6.1352867e-01 3.6473629e-01
+ 3.8625055e-03 6.0976308e-05 6.0077451e-07 3.7555519e-09]",7,White,White,True,0,[363 189 624 450]
+fitness instructor_female_37.png,Female,Young,White,Female,Female,Female,True,[0.00825432 0.99174565],"[0.0006583369, 0.99934166]",20-29,31,32.0,Young,Middle,False,"[1.44360701e-08 4.36624805e-06 1.29009765e-02 6.70377314e-01
+ 3.13737661e-01 2.96760304e-03 1.19919450e-05 1.12786005e-07
+ 1.67607783e-09]",6,White,White,True,0,[326 172 640 485]
+fitness instructor_female_38.png,Female,Middle,White,Female,Female,Female,True,[3.4689503e-05 9.9996531e-01],"[1.2957605e-05, 0.999987]",30-39,31,37.0,Middle,Middle,True,"[2.4262610e-08 3.0156296e-05 2.0987466e-02 4.7883865e-01 4.8318788e-01
+ 1.6503176e-02 4.4663259e-04 5.8690212e-06 5.7961238e-08]",4,White,White,True,0,[326 203 640 517]
+fitness instructor_female_39.png,Female,Young,White,Female,Female,Female,True,[2.8504946e-04 9.9971491e-01],"[0.00019662252, 0.9998034]",20-29,32,40.0,Young,Middle,False,"[5.0996604e-08 3.7932336e-05 3.0964909e-02 6.3482666e-01 3.2637146e-01
+ 7.6681981e-03 1.2962366e-04 1.1182817e-06 8.6679055e-09]",7,White,White,True,0,[363 268 624 529]
+fitness instructor_female_4.png,Female,Young,White,Female,Female,Female,True,[2.2148037e-05 9.9997783e-01],"[0.015647333, 0.98435265]",20-29,31,40.0,Young,Middle,False,"[3.4762968e-09 5.6781064e-06 1.9257111e-02 6.4352345e-01 3.3292478e-01
+ 4.2450940e-03 4.3446151e-05 4.1957870e-07 2.6046219e-09]",6,White,White,True,0,[363 216 624 477]
+fitness instructor_female_40.png,Female,Young,White,Female,Female,Female,True,[9.0729446e-07 9.9999911e-01],"[0.0001014716, 0.9998985]",20-29,32,34.0,Young,Middle,False,"[4.4301980e-09 4.8534603e-06 7.1963198e-03 6.2815970e-01 3.5947859e-01
+ 5.1444769e-03 1.5909634e-05 9.7109478e-08 1.3937923e-09]",7,White,White,True,0,[339 240 715 615]
+fitness instructor_female_41.png,Female,Middle,White,Female,Female,Female,True,[1.1993651e-04 9.9988002e-01],"[0.00010100985999999999, 0.9998990999999999]",30-39,32,41.0,Middle,Middle,True,"[1.11018636e-07 7.36599623e-06 5.15697058e-03 3.49939942e-01
+ 5.93009055e-01 4.86739203e-02 3.16279009e-03 4.94571868e-05
+ 4.04124762e-07]",3,White,White,True,0,[400 217 582 399]
+fitness instructor_female_42.png,Female,Young,White,Female,Female,Female,True,[5.5987598e-06 9.9999446e-01],"[5.3892083999999995e-05, 0.9999461]",20-29,32,41.0,Young,Middle,False,"[5.9112772e-09 4.3696305e-06 7.0479582e-03 5.1338077e-01 4.6145681e-01
+ 1.7941633e-02 1.6677479e-04 1.6674470e-06 1.5981682e-08]",7,White,White,True,0,[337 241 599 503]
+fitness instructor_female_43.png,Female,Middle,White,Female,Female,Female,True,[3.0023835e-05 9.9996996e-01],"[3.3340626e-06, 0.99999664]",30-39,31,40.0,Middle,Middle,True,"[1.6213223e-08 1.0337252e-06 1.3437141e-03 2.0004664e-01 6.8635803e-01
+ 1.0982409e-01 2.3971472e-03 2.9165165e-05 2.0404019e-07]",4,White,White,True,0,[225 240 601 615]
+fitness instructor_female_44.png,Female,Young,White,Female,Female,Female,True,[1.0217395e-04 9.9989778e-01],"[3.6103508e-06, 0.9999964]",20-29,32,32.0,Young,Middle,False,"[4.35647642e-08 1.11224617e-05 1.04068965e-02 5.97147107e-01
+ 3.83901238e-01 8.45795404e-03 7.50363251e-05 6.21505990e-07
+ 5.13080733e-09]",7,White,White,True,0,[413 122 564 272]
+fitness instructor_female_45.png,Female,Young,White,Female,Female,Female,True,[2.5134991e-04 9.9974865e-01],"[4.3292786e-06, 0.9999957]",20-29,31,35.0,Young,Middle,False,"[1.2330766e-08 4.3712403e-06 7.5600781e-03 5.3353798e-01 4.4896245e-01
+ 9.8122507e-03 1.2171138e-04 1.1931664e-06 9.6116120e-09]",6,White,White,True,0,[442 321 704 582]
+fitness instructor_female_46.png,Female,Young,White,Female,Female,Female,True,[1.9815232e-06 9.9999797e-01],"[5.1853716e-07, 0.99999954]",20-29,33,35.0,Young,Middle,False,"[2.6478844e-09 5.8824153e-06 1.1748932e-02 6.6443038e-01 3.2138196e-01
+ 2.4224948e-03 1.0294863e-05 7.2629852e-08 1.0379663e-09]",8,White,White,True,0,[302 240 677 615]
+fitness instructor_female_47.png,Female,Middle,White,Female,Female,Female,True,[3.9453305e-05 9.9996060e-01],"[7.7824935e-06, 0.9999921999999999]",30-39,32,41.0,Middle,Middle,True,"[2.0319476e-08 1.3758605e-06 1.0161641e-03 1.7266388e-01 6.6306525e-01
+ 1.4934641e-01 1.3632681e-02 2.7110838e-04 3.0602682e-06]",3,White,White,True,0,[302 202 677 578]
+fitness instructor_female_48.png,Female,Middle,White,Female,Female,Female,True,[3.4093253e-05 9.9996591e-01],"[2.4075618000000003e-05, 0.9999759]",30-39,30,42.0,Middle,Middle,True,"[1.8123238e-07 1.2636686e-05 3.5592034e-03 2.3995227e-01 6.3213503e-01
+ 1.1726367e-01 6.9301473e-03 1.4537718e-04 1.4244159e-06]",5,White,White,True,0,[426  88 551 215]
+fitness instructor_female_49.png,Female,Middle,White,Female,Female,Female,True,[1.7834586e-04 9.9982166e-01],"[0.00022363055, 0.99977646]",30-39,30,41.0,Middle,Middle,True,"[2.8937876e-07 4.8737733e-05 9.3717342e-03 3.8537148e-01 5.6322747e-01
+ 4.0173601e-02 1.7808082e-03 2.5637783e-05 2.1932129e-07]",5,White,White,True,0,[358 299 670 611]
+fitness instructor_female_5.png,Female,Young,White,Female,Female,Female,True,[3.1103624e-04 9.9968898e-01],"[9.197244e-07, 0.9999991]",20-29,32,40.0,Young,Middle,False,"[9.9846076e-08 5.3187825e-05 4.2968132e-02 6.9318461e-01 2.5411052e-01
+ 9.0678623e-03 6.0030469e-04 1.5157169e-05 1.7604923e-07]",7,White,White,True,0,[363 207 581 424]
+fitness instructor_female_6.png,Female,Middle,White,Female,Female,Female,True,[0.00348044 0.99651957],"[0.00049945194, 0.9995005]",30-39,29,41.0,Middle,Middle,False,"[3.2621676e-07 3.4502777e-05 1.0875333e-02 3.3168563e-01 5.8663797e-01
+ 6.8052858e-02 2.6519781e-03 6.0602240e-05 7.3727449e-07]",6,White,White,True,0,[326 299 640 611]
+fitness instructor_female_7.png,Female,Young,White,Female,Female,,True,[1.5570891e-05 9.9998444e-01],"[0.0007232685, 0.9992767]",20-29,31,,Young,,False,"[1.4924867e-09 4.6149071e-06 1.2522342e-02 7.5231057e-01 2.3282667e-01
+ 2.3286084e-03 7.1363397e-06 3.6323708e-08 5.3623395e-10]",6,White,White,True,0,[428 152 579 303]
+fitness instructor_female_8.png,Female,Middle,White,Female,Female,Female,True,[3.220463e-06 9.999967e-01],"[5.439234e-05, 0.9999456999999999]",30-39,32,38.0,Middle,Middle,True,"[2.6662921e-08 2.5175093e-06 1.1951416e-03 2.0680784e-01 6.9777501e-01
+ 9.1669902e-02 2.5059665e-03 4.3070697e-05 4.7895890e-07]",3,White,White,True,0,[400 162 582 344]
+fitness instructor_female_9.png,Female,Middle,White,Female,Female,Female,True,[1.5155460e-05 9.9998486e-01],"[0.0013326839, 0.9986674]",30-39,31,45.0,Middle,Middle,True,"[3.0266254e-09 1.2189046e-06 3.5973815e-03 3.9989704e-01 5.7601780e-01
+ 2.0284351e-02 2.0027164e-04 1.9832416e-06 1.8657021e-08]",4,White,White,True,0,[339 202 715 578]

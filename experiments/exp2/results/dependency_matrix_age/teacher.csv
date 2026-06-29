@@ -1,0 +1,10 @@
+source,age,gender,race,model
+age,,,,Stablexl1.0
+gender,0.432953103769178,,0.0,Stablexl1.0
+race,0.3137947243056322,0.18896484750479167,,Stablexl1.0
+age,,,,Stable3.5-medium
+gender,0.5619636972655067,,0.026634985273728616,Stable3.5-medium
+race,0.14136031363557425,1.0,,Stable3.5-medium
+age,,,,Flux-dev
+gender,0.5941562444307504,,0.0369800202146496,Flux-dev
+race,0.6742057123953494,0.8839964938765436,,Flux-dev

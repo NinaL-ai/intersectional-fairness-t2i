@@ -1,7 +1,8 @@
-# FairTop*k*: Efficient and Flexible Fairness-Aware Top-*k* Ranking
+# Hidden Dependencies: Intersectional Bias in Text-to-Image Diffusion Models
 
-This repository implements FairTop*k*, a multi-objective optimization framework for fairness-aware top-k ranking of the paper "FairTop*k*: Efficient and Flexible Fairness-Aware Top-*k* Ranking".
-The method jointly optimizes selection utility, ordering utility, proportional fairness, and exposure fairness.
+This repository implements a framework for evaluating and visualizing intersectional bias in text-to-image generation models.
+
+Text-to-image models can reproduce and amplify social biases present in their training data. This repository provides tools to systematically analyze representation bias across demographic attributes and their intersections, enabling a more comprehensive evaluation of fairness in generative models.
 
 ## Method Overview
 

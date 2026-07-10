@@ -66,23 +66,23 @@ def main():
     final_results_dir = os.path.join(exp_dir, "results/analysis_results_merged/")
 
     # 1. Generate images
-    # run_generation(image_dir)
+    run_generation(image_dir)
 
     # 2. Classification
-    # classify_model_images(
-    #     base_folder=image_dir,
-    #     output_folder=raw_results_dir
-    # )
+    classify_model_images(
+        base_folder=image_dir,
+        output_folder=raw_results_dir
+    )
 
     # 3. Postprocess
-    # postprocess_demographics(
-    #     base_folder=raw_results_dir,
-    #     output_folder=final_results_dir
-    # )
+    postprocess_demographics(
+        base_folder=raw_results_dir,
+        output_folder=final_results_dir
+    )
 
     # 4. fairness evaluation
     m = Metrics(base_dir="results/analysis_percentages")
-    # m.calc_intersectional_fairness()
+    m.calc_intersectional_fairness()
     m.plot_pairwise_js()
 
 

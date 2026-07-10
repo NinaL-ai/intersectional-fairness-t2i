@@ -1,0 +1,77 @@
+image,gender,age,race,gender_fair,gender_deepface,gender_insightface,equal_gender,gender_scores_fair,gender_scores_deep,age_fair,age_deepface,age_insightface,age_bin_fair,age_bin_insightface,equal_age,age_scores_fair,age_diff,race_fair,race4_deepface,equal_race,face_fair,bbox
+"software engineer_female, elderly, white_115.png",Female,Old,White,Female,Female,Female,True,[0.00367515 0.99632484],"[0.0005329187, 0.9994670999999999]",60-69,49,74,Old,Old,False,"[2.5877896e-06 1.0650294e-05 4.9518945e-05 7.8254852e-05 1.1023188e-03
+ 1.6567165e-02 3.5097054e-01 5.4483455e-01 8.6384431e-02]",16,White,White,True,0,[326 331 640 643]
+"software engineer_female, elderly, white_124.png",Female,Old,White,Female,Female,Female,True,[0.00158439 0.9984156 ],"[0.01066962, 0.9893304]",60-69,40,76,Old,Old,False,"[6.4803191e-07 5.3688750e-06 3.8415699e-05 4.7711317e-05 3.4899957e-04
+ 8.8242879e-03 1.6959722e-01 5.1856697e-01 3.0257028e-01]",25,White,White,True,0,[326 203 640 517]
+"software engineer_female, elderly, white_146.png",Female,Old,White,Female,Female,Female,True,[0.00177639 0.9982236 ],"[0.20156144999999998, 0.7984386000000001]",60-69,50,74,Old,Old,False,"[1.67722101e-06 4.51448523e-06 1.54729241e-05 2.27357032e-05
+ 4.50383290e-04 1.20452810e-02 2.66075611e-01 6.08198583e-01
+ 1.13185786e-01]",15,White,White,True,0,[302 240 677 615]
+"software engineer_female, elderly, white_16.png",Female,Old,White,Female,Female,Female,True,[2.6230246e-04 9.9973774e-01],"[1.2350299e-05, 0.99998764]",70+,49,76,Old,Old,False,"[1.4795710e-07 1.3715660e-06 5.7626062e-06 1.7002493e-06 2.5758964e-05
+ 8.8112603e-04 5.4016605e-02 3.9879197e-01 5.4627550e-01]",26,White,White,True,0,[326 331 640 643]
+"software engineer_female, elderly, white_47.png",Female,Old,White,Female,Female,Female,True,[0.00280023 0.9971997 ],"[0.009267085000000001, 0.9907329]",60-69,38,69,Old,Old,False,"[1.8597542e-06 1.8978215e-05 1.6259398e-04 4.1947630e-04 6.2565533e-03
+ 6.5753087e-02 4.2938673e-01 4.3549052e-01 6.2510170e-02]",27,White,White,True,0,[339 279 715 654]
+"software engineer_female, elderly, white_5.png",Female,Old,White,Female,Female,Female,True,[0.00237751 0.9976225 ],"[5.276272e-06, 0.9999947]",60-69,42,78,Old,Old,False,"[1.0115644e-05 1.2642535e-04 2.0161246e-04 5.5286771e-05 4.0909005e-04
+ 8.2893986e-03 2.0522662e-01 4.8836952e-01 2.9731193e-01]",23,White,White,True,0,[294 215 744 665]
+"software engineer_female, elderly, white_54.png",Female,Middle,White,Female,Female,Female,True,[1.4076667e-04 9.9985921e-01],"[0.0030479204999999997, 0.99695206]",50-59,31,75,Middle,Old,True,"[1.03464529e-07 4.47701638e-07 2.21862483e-05 5.78538456e-04
+ 1.14332745e-02 1.68749318e-01 5.85864544e-01 2.10228324e-01
+ 2.31233239e-02]",24,White,White,True,0,[302 279 677 654]
+"software engineer_female, elderly, white_55.png",Female,Middle,White,Female,Female,Female,True,[1.1342172e-04 9.9988657e-01],"[0.0052918905, 0.9947081]",50-59,47,65,Middle,Old,True,"[3.3300742e-07 1.8038680e-06 1.3082327e-05 1.9921257e-05 1.0096512e-03
+ 4.2098083e-02 4.8062572e-01 4.2368761e-01 5.2543804e-02]",8,White,White,True,0,[358 235 670 549]
+"software engineer_female, elderly, white_66.png",Female,Middle,White,Female,Female,Female,True,[1.3510192e-04 9.9986494e-01],"[2.2793037000000002e-06, 0.9999977]",50-59,43,67,Middle,Old,True,"[7.9702295e-07 3.1302352e-06 3.3062330e-05 1.6648545e-04 4.9857278e-03
+ 1.0964637e-01 5.5625165e-01 3.0402055e-01 2.4892280e-02]",12,White,White,True,0,[294 168 744 619]
+"software engineer_female, middle aged, white_112.png",Female,Young,White,Female,Female,Female,True,[2.8070333e-05 9.9997193e-01],"[2.3618328e-07, 0.9999997999999999]",20-29,23,36,Young,Middle,True,"[1.38262812e-09 1.03875045e-05 4.38210703e-02 8.97390902e-01
+ 5.86041361e-02 1.73345878e-04 1.91549361e-07 1.30739897e-09
+ 1.35933070e-11]",2,White,White,True,0,[294 203 608 517]
+"software engineer_female, middle aged, white_86.png",Female,Middle,White,Female,Female,Female,True,[2.4822848e-05 9.9997514e-01],"[4.7125313e-05, 0.9999528999999999]",30-39,33,43,Middle,Middle,True,"[1.6896989e-08 5.7106990e-07 6.4683473e-04 1.4313215e-01 7.4412030e-01
+ 1.1039210e-01 1.6962747e-03 1.1826609e-05 2.4616339e-08]",2,White,White,True,0,[339 316 715 692]
+"software engineer_female, young, white_113.png",Female,Young,White,Female,Female,Female,True,[7.0484211e-06 9.9999297e-01],"[5.680782e-08, 1.0]",20-29,28,27,Young,Young,True,"[1.9448031e-10 8.7254830e-06 1.9390413e-01 7.8980994e-01 1.6254939e-02
+ 2.2184822e-05 7.9376727e-09 7.3443543e-11 1.0431932e-12]",3,White,White,True,0,[248 261 698 711]
+"software engineer_female, young, white_131.png",Female,Young,White,Female,Female,Female,True,[2.1677519e-05 9.9997836e-01],"[0.00013262294, 0.9998672999999999]",10-19,28,24,Young,Young,True,"[7.6686141e-10 2.4622059e-04 5.7983243e-01 4.1863298e-01 1.2872823e-03
+ 1.0412137e-06 2.2999085e-10 4.0652186e-12 9.9210177e-14]",13,White,White,True,0,[326 267 640 581]
+"software engineer_female, young, white_143.png",Female,Young,White,Female,Female,Female,True,[3.101969e-05 9.999690e-01],"[0.00019372769000000002, 0.9998064]",20-29,24,25,Young,Young,True,"[5.3849109e-10 3.4743945e-05 3.5882199e-01 6.3636565e-01 4.7699544e-03
+ 7.6204492e-06 3.3608802e-09 3.8013689e-11 1.0059698e-12]",1,White,White,True,0,[294 261 744 711]
+"software engineer_female, young, white_67.png",Female,Young,White,Female,Female,Female,True,[3.2068729e-05 9.9996793e-01],"[5.5399194e-06, 0.9999945]",20-29,31,25,Young,Young,False,"[3.6816411e-10 1.3381857e-04 3.7869263e-01 6.1913776e-01 2.0340923e-03
+ 1.6887830e-06 3.6570477e-10 5.2021807e-12 9.1432063e-14]",6,White,White,True,0,[302 279 677 654]
+"software engineer_female, young, white_78.png",Female,Young,White,Female,Female,Female,True,[8.9422065e-05 9.9991059e-01],"[0.0003872985, 0.9996127]",20-29,28,24,Young,Young,True,"[1.6425087e-09 1.3977068e-04 3.9906448e-01 5.9428120e-01 6.5020802e-03
+ 1.2424716e-05 7.3513995e-09 7.4713756e-11 1.6556079e-12]",3,White,White,True,0,[294 215 744 665]
+"software engineer_female, young, white_82.png",Female,Young,White,Female,Female,Female,True,[1.4084484e-05 9.9998587e-01],"[2.786924e-06, 0.99999725]",20-29,26,24,Young,Young,True,"[8.0562019e-09 6.8419141e-04 3.9738867e-01 5.9705645e-01 4.8597381e-03
+ 1.0920891e-05 7.5657489e-09 1.6637434e-10 3.1748965e-12]",1,White,White,True,0,[339 279 715 654]
+"software engineer_male, elderly, white_102.png",Male,Middle,White,Male,Male,Male,True,[9.9998903e-01 1.0971673e-05],"[0.9976132, 0.0023868737]",50-59,50,76,Middle,Old,True,"[2.7615009e-05 1.5931751e-05 2.1961340e-04 1.4001969e-04 2.0168656e-03
+ 3.5151772e-02 5.2863973e-01 4.2731506e-01 6.4734435e-03]",5,White,White,True,0,[302 240 677 615]
+"software engineer_male, elderly, white_119.png",Male,Middle,White,Male,Male,Male,True,[9.9991196e-01 8.8010580e-05],"[0.99869896, 0.0013009815999999999]",50-59,43,71,Middle,Old,True,"[3.8217029e-05 3.4396569e-05 2.6983520e-04 1.2817928e-04 2.4297789e-03
+ 5.6047920e-02 6.7248082e-01 2.6300156e-01 5.5692666e-03]",12,White,White,True,0,[248 215 698 665]
+"software engineer_male, elderly, white_33.png",Male,Middle,White,Male,Male,Male,True,[9.999990e-01 9.606459e-07],"[0.9995489499999999, 0.00045097884]",50-59,48,66,Middle,Old,True,"[1.3532463e-05 3.0552058e-06 2.4243242e-05 6.6774548e-05 2.4908578e-03
+ 8.0652095e-02 7.5254822e-01 1.6313894e-01 1.0622647e-03]",7,White,White,True,0,[302 202 677 578]
+"software engineer_male, elderly, white_9.png",Male,Middle,White,Male,Male,Male,True,[9.9999815e-01 1.8648271e-06],"[0.9991508, 0.0008492858]",50-59,49,75,Middle,Old,True,"[7.5801058e-06 1.1546282e-06 1.4659176e-05 1.3774796e-04 9.6669523e-03
+ 2.1757527e-01 7.0341140e-01 6.8878785e-02 3.0642253e-04]",6,White,White,True,0,[248 305 698 756]
+"software engineer_male, elderly, white_99.png",Male,Middle,White,Male,Male,Male,True,[9.9999994e-01 7.7727144e-08],"[0.9993648, 0.0006352368999999999]",50-59,44,67,Middle,Old,True,"[4.1582407e-06 1.9842957e-06 2.8785309e-05 8.9419133e-05 3.5857332e-03
+ 7.0300311e-02 6.9585627e-01 2.2644678e-01 3.6865266e-03]",11,White,White,True,0,[302 202 677 578]
+"software engineer_male, middle aged, white_141.png",Male,Middle,White,Male,Male,Male,True,[9.9999815e-01 1.8072222e-06],"[0.9996366999999999, 0.00036336794]",30-39,43,43,Middle,Middle,True,"[5.9780297e-07 4.0329119e-06 2.2482648e-04 4.8463654e-02 7.2614664e-01
+ 2.2335547e-01 1.8000763e-03 4.7179565e-06 4.2103249e-08]",8,White,White,True,0,[302 240 677 615]
+"software engineer_male, middle aged, white_32.png",Male,Middle,White,Male,Male,Male,True,[1.0000000e+00 4.9222848e-08],"[0.99983, 0.00016992243]",30-39,34,43,Middle,Middle,True,"[9.2905520e-06 6.4434600e-05 1.8923325e-03 4.8188999e-02 6.1265165e-01
+ 3.2800385e-01 9.1502881e-03 3.8973885e-05 1.4771190e-07]",1,White,White,True,0,[248 261 698 711]
+"software engineer_male, middle aged, white_58.png",Male,Middle,White,Male,Male,Male,True,[9.9999285e-01 7.1734030e-06],"[0.9998427599999999, 0.00015720523999999999]",40-49,40,53,Middle,Middle,True,"[1.1972171e-05 1.3865247e-05 1.0496149e-04 1.8044487e-03 1.3481599e-01
+ 7.0824796e-01 1.5376753e-01 1.2251079e-03 8.1465432e-06]",5,White,White,True,0,[294 261 744 711]
+"software engineer_male, middle aged, white_68.png",Male,Middle,White,Male,Male,Male,True,[9.999998e-01 2.113721e-07],"[0.9991849, 0.0008150952999999999]",30-39,33,46,Middle,Middle,True,"[4.23926667e-06 1.50795559e-05 2.96752900e-04 5.26782051e-02
+ 7.34983444e-01 2.09104285e-01 2.90272408e-03 1.51436743e-05
+ 1.08137236e-07]",2,White,White,True,0,[248 261 698 711]
+"software engineer_male, middle aged, white_85.png",Male,Middle,White,Male,Male,Male,True,[9.9999887e-01 1.0924089e-06],"[0.9988679, 0.0011321856]",40-49,47,51,Middle,Middle,True,"[2.79383903e-06 9.66322295e-06 1.82295218e-04 7.99562503e-03
+ 4.56466794e-01 5.24463356e-01 1.08485315e-02 3.09178467e-05
+ 1.06809118e-07]",2,White,White,True,0,[248 261 698 711]
+"software engineer_male, middle aged, white_91.png",Male,Middle,White,Male,Male,Male,True,[9.999993e-01 7.642685e-07],"[0.9995883999999999, 0.00041160278000000003]",40-49,32,47,Middle,Middle,True,"[1.7850656e-06 1.6974611e-05 5.2327511e-04 2.0080872e-02 4.6571583e-01
+ 4.9934778e-01 1.4259341e-02 5.3746116e-05 3.4707932e-07]",13,White,White,True,0,[339 240 715 615]
+"software engineer_male, young, white_0.png",Male,Young,White,Male,Male,Male,True,[9.999950e-01 5.062274e-06],"[0.9988563, 0.0011436592]",20-29,25,31,Young,Middle,True,"[2.3927831e-07 1.4521298e-05 5.2945074e-03 6.4423126e-01 3.4427157e-01
+ 6.1713508e-03 1.6435386e-05 9.2845845e-08 1.5473974e-09]",0,White,White,True,0,[248 305 698 756]
+"software engineer_male, young, white_103.png",Male,Young,White,Male,Male,Male,True,[9.9999923e-01 8.1355154e-07],"[0.9987211, 0.0012788932]",20-29,27,27,Young,Young,True,"[7.3419955e-07 2.3578108e-05 4.1353661e-03 5.1926816e-01 4.6131334e-01
+ 1.5205179e-02 5.3192547e-05 4.4608896e-07 5.4591003e-09]",2,White,White,True,0,[294 261 744 711]
+"software engineer_male, young, white_14.png",Male,Young,White,Male,Male,Male,True,[9.999979e-01 2.124198e-06],"[0.9991443, 0.0008556732]",20-29,27,35,Young,Middle,True,"[3.5961911e-08 5.3580879e-06 6.4519127e-03 8.1327212e-01 1.7901604e-01
+ 1.2514758e-03 3.1114059e-06 1.4787903e-08 4.9950794e-10]",2,White,White,True,0,[248 261 698 711]
+"software engineer_male, young, white_20.png",Male,Young,White,Male,Male,Male,True,[9.9999976e-01 2.5037258e-07],"[0.9999655, 3.4500186e-05]",20-29,26,34,Young,Middle,True,"[6.3510683e-08 1.0907794e-06 9.7721920e-04 6.1035860e-01 3.8416484e-01
+ 4.4900225e-03 8.1052067e-06 5.0068031e-08 6.6580585e-10]",1,White,White,True,0,[202 168 654 619]
+"software engineer_male, young, white_28.png",Male,Middle,White,Male,Male,Male,True,[9.9999994e-01 4.5284789e-08],"[0.99973816, 0.00026179414]",30-39,32,41,Middle,Middle,True,"[1.02586193e-06 1.09786932e-04 1.13912765e-02 4.37321842e-01
+ 5.18321693e-01 3.26561593e-02 1.97331159e-04 9.40150187e-07
+ 8.89851393e-09]",3,White,White,True,0,[248 305 698 756]
+"software engineer_male, young, white_71.png",Male,Young,White,Male,Male,Male,True,[9.9999768e-01 2.3439834e-06],"[0.9981413, 0.0018586807]",20-29,27,35,Young,Middle,True,"[1.1423567e-07 9.8669825e-06 5.0984090e-03 5.9619164e-01 3.8267407e-01
+ 1.5899360e-02 1.2593294e-04 6.7758691e-07 1.1566830e-08]",2,White,White,True,0,[339 202 715 578]
+"software engineer_male, young, white_87.png",Male,Young,White,Male,Male,Male,True,[9.9999976e-01 1.8728574e-07],"[0.9991122, 0.0008878455999999999]",20-29,29,40,Young,Middle,True,"[1.8810639e-06 8.7016058e-05 8.2020480e-03 5.9941310e-01 3.8426915e-01
+ 8.0013247e-03 2.5321135e-05 1.9048522e-07 2.5697007e-09]",4,White,White,True,0,[248 261 698 711]

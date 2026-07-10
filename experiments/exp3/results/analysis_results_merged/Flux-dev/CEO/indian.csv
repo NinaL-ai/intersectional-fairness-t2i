@@ -1,0 +1,61 @@
+image,gender,age,race,gender_fair,gender_deepface,gender_insightface,equal_gender,gender_scores_fair,gender_scores_deep,age_fair,age_deepface,age_insightface,age_bin_fair,age_bin_insightface,equal_age,age_scores_fair,age_diff,race_fair,race4_deepface,equal_race,face_fair,bbox
+"ceo_female, elderly, indian_108.png",Female,Old,Indian,Female,Female,Female,True,[9.859734e-06 9.999901e-01],"[0.0045202604, 0.9954797000000001]",60-69,47,67,Old,Old,False,"[3.1951603e-07 3.3027425e-06 8.8793358e-06 2.0233341e-05 7.2816177e-04
+ 1.6148005e-02 2.0384283e-01 5.8597982e-01 1.9326840e-01]",18,Indian,White,False,0,[363 216 624 477]
+"ceo_female, elderly, indian_113.png",Female,Old,Indian,Female,Female,Female,True,[2.6585525e-04 9.9973416e-01],"[0.11740925, 0.8825908]",70+,54,74,Old,Old,False,"[1.5387272e-06 1.0113132e-05 2.9252233e-05 1.5484791e-05 2.8164880e-04
+ 3.6166050e-03 6.4520478e-02 4.5577577e-01 4.7574911e-01]",21,Indian,White,False,0,[302 165 677 540]
+"ceo_female, elderly, indian_134.png",Female,Old,Indian,Female,Female,Female,True,[5.478803e-05 9.999452e-01],"[0.16944036, 0.8305596]",60-69,43,74,Old,Old,False,"[3.5696482e-07 4.2551587e-06 2.8912335e-05 3.9339877e-05 5.0520780e-04
+ 8.1571443e-03 1.4412490e-01 5.7017457e-01 2.7696532e-01]",22,Indian,White,False,0,[302 240 677 615]
+"ceo_female, elderly, indian_143.png",Female,Old,White,Female,Female,Female,True,[6.7907335e-05 9.9993211e-01],"[0.0015782705, 0.9984218]",60-69,52,76,Old,Old,False,"[3.0112153e-07 1.4751403e-06 8.6776781e-06 2.2993689e-05 5.5303326e-04
+ 1.4620278e-02 2.3131958e-01 6.1991030e-01 1.3356340e-01]",13,White,White,True,0,[326 267 640 581]
+"ceo_female, elderly, indian_34.png",Female,Old,Indian,Female,Female,Female,True,[3.407480e-04 9.996593e-01],"[0.030005348, 0.96999466]",70+,61,78,Old,Old,True,"[6.3304213e-07 3.7049751e-06 6.3829357e-06 6.0054240e-06 7.7511526e-05
+ 1.0131490e-03 4.0416561e-02 3.7748730e-01 5.8098871e-01]",14,Indian,White,False,0,[326 203 640 517]
+"ceo_female, middle aged, indian_118.png",Female,Middle,Indian,Female,Female,Female,True,[3.4429886e-05 9.9996561e-01],"[0.0018553634999999998, 0.9981445999999999]",40-49,46,46,Middle,Middle,True,"[1.6559723e-07 3.7790967e-06 5.5143330e-04 3.7475135e-02 3.1599849e-01
+ 5.1194459e-01 1.2701234e-01 6.8420344e-03 1.7204732e-04]",1,Indian,White,False,0,[263 240 640 615]
+"ceo_female, middle aged, indian_146.png",Female,Young,Indian,Female,Female,Female,True,[3.471272e-05 9.999653e-01],"[0.012542193, 0.9874577999999999]",20-29,30,34,Young,Middle,False,"[8.49610249e-09 8.25358711e-06 1.29785845e-02 6.66033983e-01
+ 3.11322182e-01 9.60264727e-03 5.36303924e-05 7.19028492e-07
+ 1.12784697e-08]",5,Indian,White,False,0,[358 140 670 454]
+"ceo_female, middle aged, indian_74.png",Female,Middle,Indian,Female,Female,Female,True,[2.591925e-05 9.999741e-01],"[0.001534764, 0.9984653]",30-39,42,41,Middle,Middle,True,"[1.3732505e-07 1.6229867e-05 3.5650914e-03 2.1880683e-01 6.0334635e-01
+ 1.6814277e-01 5.9566498e-03 1.6394189e-04 2.0804644e-06]",7,Indian,Indian,True,0,[358 267 670 581]
+"ceo_female, middle aged, indian_94.png",Female,Middle,Indian,Female,Female,Female,True,[1.3347900e-04 9.9986655e-01],"[0.0031166956000000003, 0.9968832999999999]",40-49,36,41,Middle,Middle,True,"[2.9543475e-07 2.7658793e-06 1.9027483e-04 1.3565313e-02 2.6724300e-01
+ 5.5634069e-01 1.5478303e-01 7.6727988e-03 2.0176974e-04]",9,Indian,White,False,0,[339 279 715 654]
+"ceo_female, young, indian_116.png",Female,Young,Indian,Female,Female,Female,True,[5.2690289e-06 9.9999475e-01],"[0.008285229, 0.9917148]",20-29,31,27,Young,Young,False,"[1.1498075e-09 1.6488142e-05 4.7436483e-02 8.8738179e-01 6.4605214e-02
+ 5.5887789e-04 1.1245261e-06 1.5167497e-08 2.2512148e-10]",6,Indian,White,False,0,[294 267 608 581]
+"ceo_female, young, indian_12.png",Female,Young,Indian,Female,Female,Female,True,[3.0962183e-06 9.9999690e-01],"[0.0027106997, 0.9972893]",20-29,31,29,Young,Young,False,"[1.3120226e-09 1.5880001e-05 5.5919860e-02 8.3291525e-01 1.0971573e-01
+ 1.4294581e-03 3.6983606e-06 5.4088634e-08 5.4954968e-10]",6,Indian,Indian,True,0,[326 172 640 485]
+"ceo_female, young, indian_13.png",Female,Young,Indian,Female,Female,Female,True,[1.7229533e-05 9.9998277e-01],"[0.033918772, 0.9660812]",20-29,31,31,Young,Middle,False,"[6.7935400e-09 5.0865160e-06 1.2600857e-02 7.2146416e-01 2.5834551e-01
+ 7.5352550e-03 4.8387450e-05 7.2891135e-07 1.0119478e-08]",6,Indian,White,False,0,[302 202 677 578]
+"ceo_female, young, indian_139.png",Female,Young,Indian,Female,Female,Female,True,[1.6805472e-05 9.9998319e-01],"[0.0074037370000000005, 0.9925963]",20-29,36,30,Young,Middle,False,"[2.9035817e-08 2.9845145e-05 3.4233868e-02 7.4084008e-01 2.1665660e-01
+ 8.1545357e-03 8.2147963e-05 2.7445622e-06 6.3378579e-08]",11,Indian,Indian,True,0,[302 240 677 615]
+"ceo_female, young, indian_92.png",Female,Young,Indian,Female,Female,Female,True,[8.3502615e-05 9.9991649e-01],"[0.04243939, 0.9575606000000001]",20-29,29,33,Young,Middle,True,"[2.2404757e-08 4.3646014e-05 4.6827193e-02 8.3696365e-01 1.1355823e-01
+ 2.5922016e-03 1.4607687e-05 4.2132515e-07 1.2464976e-08]",4,Indian,White,False,0,[302 202 677 578]
+"ceo_male, elderly, indian_145.png",Male,Old,Indian,Male,Male,Male,True,[9.9999774e-01 2.2487900e-06],"[0.9989619999999999, 0.0010379327000000001]",60-69,55,78,Old,Old,False,"[1.86045036e-05 9.22048730e-06 1.10347624e-04 1.24663220e-05
+ 6.39073842e-05 2.86913035e-03 2.85533845e-01 7.04857290e-01
+ 6.52533211e-03]",10,Indian,White,False,0,[294 215 744 665]
+"ceo_male, elderly, indian_36.png",Male,Old,White,Male,Male,Male,True,[9.9992275e-01 7.7189339e-05],"[0.9990538, 0.0009462517500000001]",60-69,53,80,Old,Old,False,"[7.6100325e-05 3.7878784e-05 1.7625035e-04 1.7615992e-05 2.5325996e-04
+ 9.1691138e-03 3.9035264e-01 5.8678055e-01 1.3136691e-02]",12,White,White,True,0,[326 235 640 549]
+"ceo_male, elderly, indian_82.png",Male,Old,White,Male,Male,Male,True,[9.9998510e-01 1.4897481e-05],"[0.9979397, 0.0020602842]",60-69,57,79,Old,Old,False,"[4.36234659e-05 1.58795701e-05 8.44581300e-05 1.14466375e-05
+ 2.14157437e-04 8.69452115e-03 4.34386492e-01 5.48527956e-01
+ 8.02128576e-03]",8,White,White,True,0,[248 215 698 665]
+"ceo_male, middle aged, indian_125.png",Male,Middle,Indian,Male,Male,Male,True,[9.9999887e-01 1.1546981e-06],"[0.9999693000000001, 3.0640275000000004e-05]",50-59,50,70,Middle,Old,True,"[1.8542509e-05 9.2189057e-06 7.0284048e-05 3.1882497e-05 1.1103946e-03
+ 5.8689404e-02 7.6879817e-01 1.6908491e-01 2.1871643e-03]",5,Indian,White,False,0,[302 240 677 615]
+"ceo_male, middle aged, indian_37.png",Male,Middle,Indian,Male,Male,Male,True,[9.9998760e-01 1.2359212e-05],"[0.9999387, 6.123091e-05]",50-59,49,71,Middle,Old,True,"[1.0170776e-04 9.1585192e-05 5.5376859e-04 5.6346318e-05 6.3830439e-04
+ 2.6823897e-02 7.4974787e-01 2.1951218e-01 2.4743585e-03]",6,Indian,White,False,0,[302 240 677 615]
+"ceo_male, middle aged, indian_4.png",Male,Middle,White,Male,Male,Male,True,[9.999984e-01 1.634128e-06],"[0.99997284, 2.7169883000000002e-05]",50-59,53,68,Middle,Old,True,"[5.9560862e-05 3.4990309e-05 2.8271126e-04 2.9713172e-05 2.8035266e-04
+ 1.3729133e-02 6.2561905e-01 3.5852268e-01 1.4419439e-03]",2,White,White,True,0,[326 203 640 517]
+"ceo_male, middle aged, indian_52.png",Male,Middle,Indian,Male,Male,Male,True,[9.999973e-01 2.678139e-06],"[0.9999921999999999, 7.719749e-06]",50-59,44,64,Middle,Old,True,"[2.2709994e-05 1.6381553e-05 5.7633679e-05 5.1871128e-05 2.8895186e-03
+ 1.3750991e-01 8.2460290e-01 3.4593396e-02 2.5565326e-04]",11,Indian,White,False,0,[326 267 640 581]
+"ceo_male, middle aged, indian_79.png",Male,Middle,Indian,Male,Male,Male,True,[9.999976e-01 2.404631e-06],"[0.9999790000000001, 2.1003038e-05]",50-59,49,72,Middle,Old,True,"[3.2995846e-05 2.6075462e-05 1.3309365e-04 2.3930837e-05 7.1833335e-04
+ 5.6341320e-02 8.5519123e-01 8.6986005e-02 5.4708653e-04]",6,Indian,White,False,0,[358 235 670 549]
+"ceo_male, middle aged, indian_9.png",Male,Middle,Indian,Male,Male,Male,True,[9.9999869e-01 1.3056369e-06],"[0.9999818, 1.8263857000000002e-05]",50-59,50,65,Middle,Old,True,"[4.0035990e-05 7.2202121e-05 2.9207164e-04 5.0834100e-05 2.6219143e-03
+ 1.4084914e-01 8.3234423e-01 2.3638261e-02 9.1250891e-05]",5,Indian,White,False,0,[302 316 677 692]
+"ceo_male, young, indian_3.png",Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 1.9703877e-07],"[0.9999987, 1.3336168e-06]",30-39,38,41,Middle,Middle,True,"[7.7018704e-08 1.6679910e-06 2.9790791e-04 8.9056529e-02 7.9976279e-01
+ 1.0984156e-01 1.0345017e-03 5.0087833e-06 3.9599165e-08]",3,Indian,Indian,True,0,[302 240 677 615]
+"ceo_male, young, indian_73.png",Male,Middle,Indian,Male,Male,Male,True,[1.0000000e+00 2.0788903e-08],"[0.9998968, 0.00010323295999999999]",30-39,34,39,Middle,Middle,True,"[1.79255039e-07 1.81334053e-06 2.59133201e-04 1.53697595e-01
+ 7.42319405e-01 1.02611326e-01 1.10523996e-03 5.32000968e-06
+ 3.52686023e-08]",1,Indian,White,False,0,[302 240 677 615]
+"ceo_male, young, indian_78.png",Male,Middle,Indian,Male,Male,Male,True,[9.9999958e-01 3.6085595e-07],"[0.99992874, 7.1278852e-05]",30-39,32,40,Middle,Middle,True,"[2.5253730e-06 4.9932438e-05 1.7924748e-03 2.7538088e-01 6.7926186e-01
+ 4.3065052e-02 4.4229711e-04 4.8532102e-06 5.4349954e-08]",3,Indian,White,False,0,[358 172 670 485]
+"ceo_male, young, indian_8.png",Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 2.1879836e-07],"[0.99996254, 3.7457848000000004e-05]",30-39,33,36,Middle,Middle,True,"[2.1632725e-06 4.0333030e-05 1.0961742e-03 2.1625990e-01 7.0737308e-01
+ 7.4581511e-02 6.4151420e-04 5.3374902e-06 4.9871815e-08]",2,Indian,White,False,0,[302 202 677 578]
+"ceo_male, young, indian_91.png",Male,Middle,Indian,Male,Male,Male,True,[9.9999976e-01 1.9090596e-07],"[0.9999915, 8.467612e-06]",30-39,29,41,Middle,Middle,False,"[1.2041572e-06 9.7417515e-06 3.5200949e-04 1.8103111e-01 7.5410712e-01
+ 6.4062335e-02 4.3337178e-04 3.0885158e-06 3.3348257e-08]",6,Indian,Indian,True,0,[358 267 670 581]

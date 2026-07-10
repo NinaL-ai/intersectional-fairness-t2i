@@ -1,7 +1,7 @@
 group,category,percentage
 age,Middle,45.23809523809524
 age,Old,23.809523809523807
-age,Young,30.952380952380956
+age,Young,30.95238095238096
 gender,Female,36.507936507936506
 gender,Male,63.49206349206349
 intersection,Middle_Female_Asian,1.5873015873015872
@@ -29,6 +29,6 @@ intersection,Young_Male_Black,4.761904761904762
 intersection,Young_Male_Indian,3.1746031746031744
 intersection,Young_Male_White,2.380952380952381
 race,Asian,22.22222222222222
-race,Black,26.190476190476197
+race,Black,26.1904761904762
 race,Indian,23.015873015873016
 race,White,28.57142857142857

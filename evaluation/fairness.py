@@ -92,7 +92,7 @@ class Metrics:
 
     def _compute_dependency(self, dists):
         """
-        Normalized JSD-based independence score in [0,1]
+        Normalized JSD-based dependence score in [0,1]
         """
         # align distributions
         all_keys = sorted(set().union(*[d.index for d in dists]))
@@ -120,14 +120,19 @@ class Metrics:
         if k == 1:
             return 1.0
 
-        uniform = np.ones(k) / k
+        x = len(aligned)
         delta = np.zeros(k)
         delta[0] = 1.0
-        JS_MAX = jensenshannon(delta, uniform, base=2)**2
+        skrewed = [delta]
+        for i in range(x-1):
+            d = np.zeros(k)
+            d[1] = 1.0
+            skrewed.append(d)
+
+        mean_worst_dist = np.array(skrewed).mean(axis=0)
+        JS_MAX = jensenshannon(delta, mean_worst_dist, base=2)**2
 
         dep_norm = max_js / JS_MAX
-        dep_norm = np.clip(dep_norm, 0.0, 1.0)
-
         return dep_norm
 
     def coverage(self, df_neutral):
@@ -184,7 +189,7 @@ class Metrics:
                 pairjs = pd.read_csv(self.jsd_path + f"{specialty}.csv")
 
                 # Fairness metrics
-                results["Find"] = self.intersectional_dependency(pairjs, model)
+                results["Fdep"] = self.intersectional_dependency(pairjs, model)
                 neutral_file = os.path.join(specialty_path, "neutral_percentages.csv")
                 df_neutral = pd.read_csv(neutral_file)
                 results["Fcov"] = self.coverage(df_neutral)
@@ -211,8 +216,6 @@ class Metrics:
         # Fixed size per matrix
         matrix_width = 3
         matrix_height = 3
-
-        # Font sizes
         fontsize = 22
 
         # Output folder
@@ -253,13 +256,12 @@ class Metrics:
                     ax.set_xticks(np.arange(len(self.attributes)))
                     ax.set_yticks(np.arange(len(self.attributes)))
 
-                    # Y labels only for cardiologist
+                    # Y labels only for baker
                     if specialty.lower() == "baker":
                         ax.set_yticklabels(attr_labels, fontsize=fontsize)
                     else:
                         ax.set_yticklabels([])
 
-                    # ax.set_xticklabels(attr_labels, fontsize=fontsize, rotation=45, ha='right')
                     if model == "Stablexl1.0":
                         ax.set_xticklabels(
                             attr_labels,
@@ -286,7 +288,6 @@ class Metrics:
                         spine.set_color("black")
 
                     # Add model header
-                    # ax.set_title(model, fontsize=fontsize, pad=12)
                     ax.set_title(
                         model_names.get(model, model),
                         fontsize=fontsize,
@@ -296,8 +297,8 @@ class Metrics:
                     # Remove ticks outside matrix
                     ax.tick_params(top=False, bottom=False, left=False, right=False)
 
-                    # Add colorbar manually only for last matrix if surgeon
-                    if specialty.lower() == "professional athlete" and idx == n_models - 1:
+                    # Add colorbar manually only for last matrix
+                    if specialty.lower() == "politician" and idx == n_models - 1:
                         cax = fig.add_axes([left + width + 0.05, bottom, 0.05, height])
                         cbar = fig.colorbar(im, cax=cax)
                         cbar.ax.tick_params(labelsize=fontsize)
